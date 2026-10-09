@@ -16,6 +16,23 @@ for f in sorted(glob.glob('results/batch_*.jsonl')):
         seen_names.add(o['name'])
         results.append(o)
 
+# apply supplement rows (recovered Master LS entities with their own episode lists)
+sup_eps = {}
+if os.path.exists('supplement.jsonl'):
+    byname_tmp0 = {o['name']: o for o in results}
+    nsup = 0
+    for line in open('supplement.jsonl'):
+        line = line.strip()
+        if not line: continue
+        r = json.loads(line)
+        eps = r.pop('_eps', [])
+        r.pop('new', None)
+        if r['name'] in byname_tmp0: continue
+        sup_eps[r['name']] = eps
+        results.append(r); byname_tmp0[r['name']] = r
+        nsup += 1
+    print('supplement rows added:', nsup)
+
 # apply reconciliation patch
 patch_new = []
 if os.path.exists('reconcile_patch.jsonl'):
@@ -137,6 +154,8 @@ def add_group(gname, idstr, typ):
     # mentions
     mm = defaultdict(set)
     for m in groups[gname]:
+        if m in sup_eps:
+            mm[byname[m].get('localized_canonical') or m].update(sup_eps[m])
         for surf, eps in mentions.get(m, {}).items():
             s = norm_apos(surf).strip()
             if not s: continue

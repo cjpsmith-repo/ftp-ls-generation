@@ -1,0 +1,690 @@
+[
+ {
+  "name": "Trevor Warrick",
+  "eps": [
+   91
+  ],
+  "type": "Character",
+  "note": "Supporting | 91 | Father of Adrian and Caleb",
+  "gender": null
+ },
+ {
+  "name": "Samson Voss",
+  "eps": [
+   80
+  ],
+  "type": "Character",
+  "note": "Supporting | 80 | NOT 'Samson Zheng' \u2014 Zheng was unlocalized Chinese surname",
+  "gender": null
+ },
+ {
+  "name": "Parker Sutton",
+  "eps": [
+   100
+  ],
+  "type": "Character",
+  "note": "Supporting | 100 | Possible relation to Miles Sutton \u2014 unconfirmed",
+  "gender": null
+ },
+ {
+  "name": "Casey",
+  "eps": [
+   80,
+   110,
+   111,
+   112
+  ],
+  "type": "Character",
+  "note": "Minor | 112 | Pledge alongside Henry.",
+  "gender": "Male"
+ },
+ {
+  "name": "Helen",
+  "eps": [
+   304
+  ],
+  "type": "Character",
+  "note": "Supporting | 124 | House Solomon heiress. NOTE: 'Helen' in Eps 201\u2013208 was a localization error for INGRID, not this character.",
+  "gender": null
+ },
+ {
+  "name": "Sean",
+  "eps": [
+   292
+  ],
+  "type": "Character",
+  "note": "Supporting | 208 | Part of Ethan and Ingrid's social circle in Alba Imperia.",
+  "gender": null
+ },
+ {
+  "name": "Desmond",
+  "eps": [
+   226
+  ],
+  "type": "Character",
+  "note": "Minor | 226 | Black-robed inner disciple. Trains on Seven-Star Platform level 8. Personal best: 73 waves.",
+  "gender": "Male"
+ },
+ {
+  "name": "Master Robert",
+  "eps": [
+   246
+  ],
+  "type": "Character",
+  "note": "Supporting | 246 | Master skilled in array design. Created Array of Corporeal Brilliance for Blackrock Peak outer disciples.",
+  "gender": null
+ },
+ {
+  "name": "Osmond",
+  "eps": [
+   374
+  ],
+  "type": "Character",
+  "note": "Referenced (off-screen) | 374 | Sir Kenneth's best friend. An Elder with incredible vitality. Once had both hands cut off in battle and regrew them (due to Lifeblood of the Nine-Headed Dragon). Referenced in context of Ep 374.",
+  "gender": "Male"
+ },
+ {
+  "name": "Tectonic Ring",
+  "eps": [
+   85
+  ],
+  "type": "Entity",
+  "note": "Equipment | 84",
+  "gender": null
+ },
+ {
+  "name": "Imperial Signet",
+  "eps": [
+   93
+  ],
+  "type": "Entity",
+  "note": "Equipment | 93",
+  "gender": null
+ },
+ {
+  "name": "Azure Blade",
+  "eps": [
+   112
+  ],
+  "type": "Entity",
+  "note": "Weapon | 112 | Henry's weapon. Distinct \u2014 NOT a variant of Cobalt/Indigo.",
+  "gender": null
+ },
+ {
+  "name": "Crimson Cage",
+  "eps": [
+   144,
+   145
+  ],
+  "type": "Entity",
+  "note": "Equipment | 145 | Powerful enchantment. Even a Netherlord would struggle.",
+  "gender": null
+ },
+ {
+  "name": "Tapestry of Sun, Moon, and Stars",
+  "eps": [
+   163,
+   164,
+   165,
+   169,
+   178,
+   190,
+   234,
+   295,
+   296,
+   600,
+   976
+  ],
+  "type": "Entity",
+  "note": "Contemplation Picture | 161+ | From the Elysian Keep. Meditation/training aid.",
+  "gender": null
+ },
+ {
+  "name": "Willow Spear",
+  "eps": [
+   199
+  ],
+  "type": "Entity",
+  "note": "Weapon | 199\u2013200 | Yates Moon's weapon. Crafted by House Moon. NOT 'Willow Leaf Spear'.",
+  "gender": null
+ },
+ {
+  "name": "Runic Brush",
+  "eps": [
+   255,
+   257,
+   259
+  ],
+  "type": "Entity",
+  "note": "Weapon | 254-260+ | Richard's weapon. Wolf-hair brush for Glyph Casting calligraphic techniques.",
+  "gender": null
+ },
+ {
+  "name": "Crimson Pill",
+  "eps": [
+   279
+  ],
+  "type": "Entity",
+  "note": "Consumable | 279 | Pill that boosts cultivation/healing.",
+  "gender": null
+ },
+ {
+  "name": "Dragon Sword",
+  "eps": [
+   355,
+   356
+  ],
+  "type": "Entity",
+  "note": "Weapon | 355-356 | Alistair Mahoney's weapon. Middle-grade Mythic Weapon. Cyan blade.",
+  "gender": null
+ },
+ {
+  "name": "Green Caltrop Pike",
+  "eps": [
+   370
+  ],
+  "type": "Entity",
+  "note": "Weapon | 370 | Lennon Anderson's weapon. Swallow-shaped dart.",
+  "gender": null
+ },
+ {
+  "name": "Nimbus Expanse Pill",
+  "eps": [
+   359
+  ],
+  "type": "Entity",
+  "note": "Consumable | 359 | Coveted treasure offered by Toby Dillon as reward for top-five Cloud Road finish. Political maneuver.",
+  "gender": null
+ },
+ {
+  "name": "Soul Flag",
+  "eps": [
+   492,
+   493
+  ],
+  "type": "Entity",
+  "note": "Relic-Class Weapon | 492 | Ethereal Spirit Sect's Relic-Class weapon. One of three publicly known Relic-Class weapons.",
+  "gender": null
+ },
+ {
+  "name": "Dragon Jade Pendant",
+  "eps": [
+   456
+  ],
+  "type": "Entity",
+  "note": "Quest item | 456 | Crystal pendant used to attempt activation of Dragon Soar Arena teleportation array.",
+  "gender": null
+ },
+ {
+  "name": "Vital Energy Drum",
+  "eps": [
+   482
+  ],
+  "type": "Entity",
+  "note": "Equipment | 482 | Massive drum that drains blood and life force from cultivators. Produces golden light that extends lifespan of recipients.",
+  "gender": null
+ },
+ {
+  "name": "Mysterious Ice",
+  "eps": [
+   491
+  ],
+  "type": "Entity",
+  "note": "Material | 491-492 | Extremely valuable material. Eden used it to seal the Heavenly Feather Crown.",
+  "gender": null
+ },
+ {
+  "name": "Shadow Fist",
+  "eps": [
+   11,
+   14,
+   15,
+   16,
+   25,
+   56,
+   89
+  ],
+  "type": "Entity",
+  "note": "Martial art | 11, 14, 15, 16, 25, 46, 48, 56, 89",
+  "gender": null
+ },
+ {
+  "name": "Divine Thunder",
+  "eps": [
+   57,
+   58
+  ],
+  "type": "Entity",
+  "note": "Technique | 57, 58",
+  "gender": null
+ },
+ {
+  "name": "Deadly Bloom",
+  "eps": [
+   91
+  ],
+  "type": "Entity",
+  "note": "Technique | 91",
+  "gender": null
+ },
+ {
+  "name": "Crimson Haze",
+  "eps": [
+   94,
+   114,
+   123
+  ],
+  "type": "Entity",
+  "note": "Technique | 94",
+  "gender": null
+ },
+ {
+  "name": "Eclipse Haze",
+  "eps": [
+   75
+  ],
+  "type": "Entity",
+  "note": "Technique | 75",
+  "gender": null
+ },
+ {
+  "name": "Earthshatter",
+  "eps": [
+   93,
+   95,
+   105,
+   127,
+   139,
+   322
+  ],
+  "type": "Entity",
+  "note": "Titan Strike variant | 127 | Advanced form of Titan Strike.",
+  "gender": null
+ },
+ {
+  "name": "Sacred Flame",
+  "eps": [
+   134,
+   148
+  ],
+  "type": "Entity",
+  "note": "Demon ability | 134+ | Netherlord Aldrich's signature. Severs spirit connections.",
+  "gender": null
+ },
+ {
+  "name": "Soul Duel",
+  "eps": [
+   137
+  ],
+  "type": "Entity",
+  "note": "Combat type | 137 | Battle of Life Force between cultivators.",
+  "gender": null
+ },
+ {
+  "name": "Willow Spear Art",
+  "eps": [
+   199
+  ],
+  "type": "Entity",
+  "note": "Cultivation Method | 199 | Yates Moon's Tier Four Cultivation Method. NOT 'Willow Leaf Spear Art' or 'Attunement Method'.",
+  "gender": null
+ },
+ {
+  "name": "Creeping Blight Venom",
+  "eps": [
+   235
+  ],
+  "type": "Entity",
+  "note": "Poison technique | 235 | Benjamin's poison. Creates toxic gas orbs.",
+  "gender": null
+ },
+ {
+  "name": "Three Strikes of Bloody Hell",
+  "eps": [
+   236
+  ],
+  "type": "Entity",
+  "note": "Combat technique | 236 | Benjamin's scarlet machete technique.",
+  "gender": null
+ },
+ {
+  "name": "Feather Pricks",
+  "eps": [
+   282
+  ],
+  "type": "Entity",
+  "note": "Combat | 252+ | Tracy's technique. Used with Stiletto Hairpins.",
+  "gender": null
+ },
+ {
+  "name": "Lethal Intent",
+  "eps": [
+   264
+  ],
+  "type": "Entity",
+  "note": "Sword mastery | 264+ | Sword intent beyond Slender Sword Intent.",
+  "gender": null
+ },
+ {
+  "name": "Streaming Swordsmanship",
+  "eps": [
+   356
+  ],
+  "type": "Entity",
+  "note": "Sword technique | 356 | Alistair's combat technique. Creates hypnotic rippling curves in the air.",
+  "gender": null
+ },
+ {
+  "name": "Sky-Breaking Thrust",
+  "eps": [
+   383
+  ],
+  "type": "Entity",
+  "note": "Spear technique | 383 | Frank's spear technique. Devastating single-target thrust.",
+  "gender": null
+ },
+ {
+  "name": "Maelstrom Spear",
+  "eps": [
+   384,
+   412
+  ],
+  "type": "Entity",
+  "note": "Spear technique | 384 | Frank's ultimate move. Creates a swirling vortex from the spear tip that sucks in raw Spear Intent.",
+  "gender": null
+ },
+ {
+  "name": "Burn of the Wyrm",
+  "eps": [
+   368
+  ],
+  "type": "Entity",
+  "note": "Fire technique | 368 | Technique used by the young man in white (unidentified Cloud Hall disciple). Creates a spear of flame that incinerates targets.",
+  "gender": null
+ },
+ {
+  "name": "Flick the Sword",
+  "eps": [
+   469
+  ],
+  "type": "Entity",
+  "note": "Sword technique | 469 | Concentrated sword energy that bores through exterior and pulses through target's core, fracturing from within.",
+  "gender": null
+ },
+ {
+  "name": "Traceless Snowstep",
+  "eps": [
+   484
+  ],
+  "type": "Entity",
+  "note": "Movement technique | 484 | Dawson Jones's signature. Blinding speed without leaving footprints. Explosive acceleration combat philosophy.",
+  "gender": null
+ },
+ {
+  "name": "Skull Ghost Hand",
+  "eps": [
+   469,
+   470
+  ],
+  "type": "Entity",
+  "note": "Soul attack | 469-470 | Stoney's technique from the Discipline of Vile Malice. Spectral hand reaches into consciousness to shatter soul from within.",
+  "gender": null
+ },
+ {
+  "name": "Soul-Killing Poisoned Blood",
+  "eps": [
+   491
+  ],
+  "type": "Entity",
+  "note": "Forbidden technique | 490-491 | Bloodwood Cliff forbidden art. Unlocks full potential at cost of devastating injuries. Lady Darkmere applied to Brody.",
+  "gender": null
+ },
+ {
+  "name": "Blood Flame Hacking",
+  "eps": [
+   491
+  ],
+  "type": "Entity",
+  "note": "Fire/Blood technique | 491 | Brody Booth's technique. Scarlet blood flames engulf scimitar blade.",
+  "gender": null
+ },
+ {
+  "name": "Water Tornado",
+  "eps": [
+   495
+  ],
+  "type": "Entity",
+  "note": "Water technique | 495 | Benson's technique. Dragon made of pure water erupts from battle stage.",
+  "gender": null
+ },
+ {
+  "name": "Wind Barrier",
+  "eps": [
+   495
+  ],
+  "type": "Entity",
+  "note": "Wind technique | 495 | Eden's concealment technique. Dissolves body into wind currents. Requires Wind Law mastery.",
+  "gender": null
+ },
+ {
+  "name": "Six Senses Blocking Method",
+  "eps": [
+   482
+  ],
+  "type": "Entity",
+  "note": "Cultivation method | 482 | Shuts down all six senses. Used by Maddox on Elara and another girl to boost power for Soul Harvesting Ritual.",
+  "gender": null
+ },
+ {
+  "name": "Gresham's Blade Dance",
+  "eps": [
+   486
+  ],
+  "type": "Entity",
+  "note": "Twin-sword technique | 486 | Alex Gresham's technique. Cyclone of purple and gold sword intent with dual blades.",
+  "gender": null
+ },
+ {
+  "name": "Blackout Division",
+  "eps": [
+   67
+  ],
+  "type": "Entity",
+  "note": "Military unit | 67 | Enemy unit \u2014 captains found among Razorwing dead",
+  "gender": null
+ },
+ {
+  "name": "The Crucible",
+  "eps": [
+   39,
+   85,
+   97,
+   106,
+   110,
+   111,
+   116,
+   121,
+   122,
+   123,
+   124,
+   1033,
+   1034,
+   1035,
+   1036,
+   1037,
+   1038,
+   1039
+  ],
+  "type": "Entity",
+  "note": "Region | 122+ | War zone between humans and demons.",
+  "gender": null
+ },
+ {
+  "name": "Silvermere Spire",
+  "eps": [
+   189
+  ],
+  "type": "Entity",
+  "note": "Location | 189 | Saints' sanctuary within the Skyreach Sect. Saint Augustus and Saint Viana reside here.",
+  "gender": null
+ },
+ {
+  "name": "Imperial Palace",
+  "eps": [
+   345
+  ],
+  "type": "Entity",
+  "note": "Location | 344-349 | Royal residence. Isla under house arrest here. Zane infiltrates to rescue her.",
+  "gender": null
+ },
+ {
+  "name": "Crescent Building",
+  "eps": [
+   335
+  ],
+  "type": "Entity",
+  "note": "Location | 335-337 | Building in Castermere County where the five lords conspire against Zane.",
+  "gender": null
+ },
+ {
+  "name": "House Stone",
+  "eps": [
+   335,
+   336
+  ],
+  "type": "Entity",
+  "note": "House/Family | 335-337 | Second most powerful in Castermere County. Lord Ford killed Zane's father Milo. Ford forced to compensate and punished.",
+  "gender": null
+ },
+ {
+  "name": "House Carter",
+  "eps": [
+   335,
+   336
+  ],
+  "type": "Entity",
+  "note": "House/Family | 336-337 | One of five powerful Castermere County families. Seized Lowell property after Milo's death.",
+  "gender": null
+ },
+ {
+  "name": "House Hill",
+  "eps": [
+   336,
+   337
+  ],
+  "type": "Entity",
+  "note": "House/Family | 336-337 | One of five powerful Castermere County families.",
+  "gender": null
+ },
+ {
+  "name": "Thrilling Icy Plain",
+  "eps": [
+   397
+  ],
+  "type": "Entity",
+  "note": "Cloud Road zone | 397 | Fourth stage of the Cloud Road. Icy terrain. Frank defeats three opponents here.",
+  "gender": null
+ },
+ {
+  "name": "Scarlet Machete",
+  "eps": [
+   236
+  ],
+  "type": "Entity",
+  "note": "Weapon | 236 | Benjamin's weapon. Used with Creeping Blight Venom.",
+  "gender": null
+ },
+ {
+  "name": "Array Flag",
+  "eps": [
+   238,
+   239,
+   243,
+   420
+  ],
+  "type": "Entity",
+  "note": "Equipment | 238\u2013246 | Mack's array deployment tool. Plants it to activate battle formations.",
+  "gender": null
+ },
+ {
+  "name": "Alabaster Box",
+  "eps": [
+   202
+  ],
+  "type": "Entity",
+  "note": "Item | 202 | Precious container. Given by Ingrid.",
+  "gender": null
+ },
+ {
+  "name": "White Spear",
+  "eps": [
+   238,
+   383,
+   384,
+   389,
+   413
+  ],
+  "type": "Entity",
+  "note": "Weapon | 383-397 | Frank's primary weapon. Used with Sky-Breaking Thrust and Maelstrom Spear techniques.",
+  "gender": null
+ },
+ {
+  "name": "Sky-blue Gem",
+  "eps": [
+   391,
+   392
+  ],
+  "type": "Entity",
+  "note": "Artifact | 391-395 | Tia's artifact. Summons an Ice Phoenix when activated. Pulses with chilling cold.",
+  "gender": null
+ },
+ {
+  "name": "Crystal Key",
+  "eps": [
+   394,
+   395,
+   396
+  ],
+  "type": "Entity",
+  "note": "Quest item | 391-400 | Key to all treasures of the fallen Sixth-Grade Sect on the Cloud Road. Found in the Soulforge inside the Drake puppet.",
+  "gender": null
+ },
+ {
+  "name": "Vibration Technique",
+  "eps": [
+   200
+  ],
+  "type": "Entity",
+  "note": "Technique | 182, 200 | Learned from Murlocs. Used for underwater speed and disarming opponents.",
+  "gender": null
+ },
+ {
+  "name": "Slender Sword Intent",
+  "eps": [
+   226
+  ],
+  "type": "Entity",
+  "note": "Sword mastery | 225\u2013226 | Zane achieves this at Seven-Star Platform. Projects cutting energy.",
+  "gender": null
+ },
+ {
+  "name": "Double-Pupiled Vision",
+  "eps": [
+   341
+  ],
+  "type": "Entity",
+  "note": "Innate ability | 341-342 | Axel's innate ability. Twin pupils in left eye can detect opponent's vulnerabilities. Causes splitting headache. NOT called 'Shatter-Sight' \u2014 that name does not appear in text.",
+  "gender": null
+ },
+ {
+  "name": "Glamour",
+  "eps": [
+   211,
+   212,
+   453
+  ],
+  "type": "Entity",
+  "note": "Seduction technique | 453 | Lady Darkmere's specialty. Intoxicating compulsion. Can be woven into laughter. Drains victim's Vitality.",
+  "gender": null
+ }
+]

@@ -1,0 +1,742 @@
+{
+ "policy": {
+  "P1_gender": "conform_to_source",
+  "P2_coexisting_splits": "merge",
+  "note": "Full AIVO regeneration; aired-audio continuity is not a constraint."
+ },
+ "mechanical_terms": [
+  {
+   "id": "T1",
+   "find": "Sacred Arms",
+   "replace": "Sacred Weapon",
+   "scope": "all"
+  },
+  {
+   "id": "T2",
+   "find": "Spiritual Weapon",
+   "replace": "Spirit Weapon",
+   "scope": "all"
+  },
+  {
+   "id": "T3a",
+   "find": "Mystic Weapon",
+   "replace": "Mythic Weapon",
+   "scope": "all"
+  },
+  {
+   "id": "T3b",
+   "find": "Mystic-grade",
+   "replace": "Mythic-grade",
+   "scope": "all"
+  },
+  {
+   "id": "T4",
+   "find": "Soulbound Weapon",
+   "replace": "Spirit Weapon",
+   "scope": "all",
+   "guard_note": "Eps 21-24 only; distinct from 'Soul Armament' body-weapon"
+  },
+  {
+   "id": "T5",
+   "find": "Heavenly Way",
+   "replace": "Cosmic Order",
+   "scope": "all"
+  },
+  {
+   "id": "T6",
+   "find": "Primordial Vitality",
+   "replace": "Primal Vitality",
+   "scope": "all"
+  },
+  {
+   "id": "T7",
+   "find": "Nether Essence",
+   "replace": "Corrupt Vitality",
+   "scope": "all"
+  },
+  {
+   "id": "T8a",
+   "find": "Saint Morphens",
+   "replace": "Saint Morphen",
+   "scope": "all"
+  },
+  {
+   "id": "T8b",
+   "find": "Morphens",
+   "replace": "Morphen",
+   "scope": "all"
+  },
+  {
+   "id": "T9a",
+   "find": "Feather Emperor's Secret Realm",
+   "replace": "Feather Emperor's Secret Land",
+   "scope": "all"
+  },
+  {
+   "id": "T9b",
+   "find": "Divine Emperor's Secret Realm",
+   "replace": "Divine Emperor's Secret Land",
+   "scope": "all"
+  },
+  {
+   "id": "T9c",
+   "find": "Heavenly Stellar Secret Realm",
+   "replace": "Heavenly Stellar Secret Land",
+   "scope": "all"
+  },
+  {
+   "id": "T11",
+   "find": "Lowell House",
+   "replace": "House Lowell",
+   "scope": "all",
+   "guard_note": "article cleanup handled by engine: 'the House Lowell' -> 'House Lowell'"
+  },
+  {
+   "id": "T12a",
+   "find": "Legacy Houses",
+   "replace": "Great Houses",
+   "scope": "all"
+  },
+  {
+   "id": "T12b",
+   "find": "Legacy House",
+   "replace": "Great House",
+   "scope": "all"
+  },
+  {
+   "id": "T13",
+   "find": "Seven Ruling Families",
+   "replace": "Seven Great Houses",
+   "scope": "all"
+  },
+  {
+   "id": "T15",
+   "find": "Adept Stage",
+   "replace": "Adept Realm",
+   "scope": "all"
+  },
+  {
+   "id": "T17",
+   "find": "Relic-grade",
+   "replace": "Relic-Class",
+   "scope": "all"
+  },
+  {
+   "id": "T19",
+   "find": "Life-and-Death Crises",
+   "replace": "Life-and-Death Tribulations",
+   "scope": "all"
+  },
+  {
+   "id": "T20",
+   "find": "Storm Pike",
+   "replace": "Stormbreaker Halberd",
+   "scope": "all"
+  },
+  {
+   "id": "T22a",
+   "find": "Luo Tianxing",
+   "replace": "Zane Jones",
+   "scope": "all"
+  },
+  {
+   "id": "T23",
+   "find": "Mistress Hua",
+   "replace": "Lady Hawkins",
+   "scope": "all"
+  },
+  {
+   "id": "T25",
+   "find": "Power Crystals",
+   "replace": "Crystal Cubes",
+   "scope": "all"
+  },
+  {
+   "id": "T26",
+   "find": "Crystals Cubes",
+   "replace": "Crystal Cubes",
+   "scope": "all"
+  },
+  {
+   "id": "T27",
+   "find": "Dragonscale Shard",
+   "replace": "Dragon Scale Shard",
+   "scope": "all"
+  },
+  {
+   "id": "T28",
+   "find": "Armored Sky-carrier",
+   "replace": "Skycruiser",
+   "scope": "all"
+  },
+  {
+   "id": "T29",
+   "find": "Armored Skycruiser",
+   "replace": "Skycruiser",
+   "scope": "all"
+  },
+  {
+   "id": "T30",
+   "find": "Twin Reapers",
+   "replace": "Diabolic Duo",
+   "scope": "all",
+   "guard_note": "article: 'The Twin Reapers' -> 'the Diabolic Duo'"
+  },
+  {
+   "id": "T31",
+   "find": "Blue Dragon Carving",
+   "replace": "Cobalt Dragon Carving",
+   "scope": "all"
+  },
+  {
+   "id": "T32",
+   "find": "Azure Dragon",
+   "replace": "Cobalt Dragon",
+   "scope": "all",
+   "guard": "not_followed_by Effigy",
+   "guard_note": "'Azure Dragon Effigy' preserved per old log"
+  },
+  {
+   "id": "T33",
+   "find": "Willow Leaf Spear Art",
+   "replace": "Willow Spear Art",
+   "scope": "all"
+  },
+  {
+   "id": "T34",
+   "find": "Chaotic Astral Ocean",
+   "replace": "Chaotic Ocean of Stars",
+   "scope": "all"
+  },
+  {
+   "id": "T35",
+   "find": "Ethereal Spirit Order",
+   "replace": "Ethereal Spirit Sect",
+   "scope": "all"
+  },
+  {
+   "id": "T36",
+   "find": "Black Mountain Sect",
+   "replace": "Black Mountain Order",
+   "scope": "all"
+  },
+  {
+   "id": "T37",
+   "find": "Streamer Sword",
+   "replace": "Streamer",
+   "scope": "all"
+  },
+  {
+   "id": "T38",
+   "find": "Alastair",
+   "replace": "Alistair",
+   "scope": "all"
+  },
+  {
+   "id": "T13b",
+   "find": "Seven Ruling Houses",
+   "replace": "Seven Great Houses",
+   "scope": "all"
+  }
+ ],
+ "range_renames": [
+  {
+   "id": "S1",
+   "find": "Barrett",
+   "replace": "Chase",
+   "eps": [
+    90,
+    150
+   ],
+   "why": "same source weaponsmith Che Daozi; canon Chase"
+  },
+  {
+   "id": "S2",
+   "find": "Nolan",
+   "replace": "Bryson",
+   "eps": [
+    1,
+    35
+   ],
+   "why": "uncle Luo Bingquan; canon Bryson; Alan Nolan (Eps 447-448) untouched"
+  },
+  {
+   "id": "S3a",
+   "find": "Ken Lowell",
+   "replace": "Owen Lowell",
+   "eps": [
+    320,
+    345
+   ],
+   "why": "uncle Luo Junyi; canon Owen Lowell"
+  },
+  {
+   "id": "S3b",
+   "find": "Ken",
+   "replace": "Owen",
+   "eps": [
+    320,
+    345
+   ],
+   "contextual": true,
+   "why": "bare-name instances of the same uncle; verify each"
+  },
+  {
+   "id": "C1",
+   "find": "Axel",
+   "replace": "Sten",
+   "eps": [
+    335,
+    350
+   ],
+   "why": "Prince Ray's fighter; General Axel (131-140) keeps name"
+  },
+  {
+   "id": "C2",
+   "find": "Shane",
+   "replace": "Garrick",
+   "eps": [
+    620,
+    670
+   ],
+   "why": "Tower seat-holder; Captain Shane keeps name"
+  },
+  {
+   "id": "C3a",
+   "find": "Caleb Preston",
+   "replace": "Pierce Preston",
+   "eps": [
+    720,
+    740
+   ]
+  },
+  {
+   "id": "C3b",
+   "find": "Caleb",
+   "replace": "Pierce",
+   "eps": [
+    720,
+    740
+   ],
+   "contextual": true
+  },
+  {
+   "id": "C3c",
+   "find": "Caleb Garrett",
+   "replace": "Rhett Garrett",
+   "eps": [
+    1050,
+    1065
+   ]
+  },
+  {
+   "id": "C3d",
+   "find": "Caleb",
+   "replace": "Rhett",
+   "eps": [
+    1050,
+    1065
+   ],
+   "contextual": true
+  },
+  {
+   "id": "C4",
+   "find": "Connor",
+   "replace": "Edmund",
+   "eps": [
+    340,
+    355
+   ],
+   "why": "Seventh Prince; Connor Sterling keeps name"
+  },
+  {
+   "id": "C5",
+   "find": "Tristan",
+   "replace": "Barnaby",
+   "eps": [
+    320,
+    335
+   ],
+   "why": "House Lowell youth; Tristan Hayes keeps name"
+  },
+  {
+   "id": "C6",
+   "find": "Blake",
+   "replace": "Petey",
+   "eps": [
+    40,
+    50
+   ],
+   "why": "Chris Fane's nephew; Cloud Hall Blake keeps name"
+  },
+  {
+   "id": "C7",
+   "find": "Finn",
+   "replace": "Boyd",
+   "eps": [
+    80,
+    110
+   ],
+   "why": "Eagle Peak ring-wielder; Finn Donovan keeps name"
+  },
+  {
+   "id": "C8",
+   "find": "Randy",
+   "replace": "Dermot",
+   "eps": [
+    380,
+    410
+   ],
+   "why": "Duskfall disciple; Lord Randy keeps name"
+  },
+  {
+   "id": "C9",
+   "find": "York",
+   "replace": "Tavish",
+   "eps": [
+    230,
+    250
+   ],
+   "why": "Sea Peak opponent; War Emperor York keeps name"
+  },
+  {
+   "id": "C10",
+   "find": "Jasper",
+   "replace": "Elwood",
+   "eps": [
+    230,
+    350
+   ],
+   "why": "Master Jasper the elder; Jasper Reed (1063+) keeps name"
+  },
+  {
+   "id": "C11",
+   "find": "Master Young",
+   "replace": "Master Croy",
+   "eps": [
+    680,
+    695
+   ],
+   "why": "Sea Wyrm elder; Skyreach Master Young keeps name"
+  },
+  {
+   "id": "C12",
+   "find": "Gavin",
+   "replace": "Rory",
+   "eps": [
+    1200,
+    1321
+   ],
+   "why": "Zane and Tia's son; General Gavin keeps name"
+  },
+  {
+   "id": "C13",
+   "find": "Howard",
+   "replace": "Pim",
+   "eps": [
+    110,
+    125
+   ],
+   "why": "Stormcrown apprentice; Elder Howard keeps name"
+  },
+  {
+   "id": "C14",
+   "find": "Paige",
+   "replace": "Nessa",
+   "eps": [
+    95,
+    105
+   ],
+   "why": "Felix's entourage; late Paige keeps name"
+  },
+  {
+   "id": "C15",
+   "find": "Faye",
+   "replace": "Tilly",
+   "eps": [
+    925,
+    940
+   ],
+   "why": "Cora's maid; Owen's girlfriend keeps name"
+  },
+  {
+   "id": "C16",
+   "find": "Otto",
+   "replace": "Bram",
+   "eps": [
+    345,
+    355
+   ],
+   "why": "prince's guard; Misty Peak Otto keeps name"
+  },
+  {
+   "id": "C17",
+   "find": "Evan",
+   "replace": "Sid",
+   "eps": [
+    38,
+    52
+   ],
+   "why": "minor minion; Evan (Li Yifeng) keeps name"
+  },
+  {
+   "id": "C18",
+   "find": "Leo",
+   "replace": "Burt",
+   "eps": [
+    33,
+    45
+   ],
+   "contextual": true,
+   "why": "Ep 34 minion; Leo Brandt (64+) keeps name; Ep 40s hits need context check"
+  },
+  {
+   "id": "C19a",
+   "find": "Elder Julian",
+   "replace": "Elder Jovan",
+   "eps": [
+    430,
+    455
+   ]
+  },
+  {
+   "id": "C19b",
+   "find": "Julian",
+   "replace": "Jovan",
+   "eps": [
+    430,
+    455
+   ],
+   "contextual": true
+  },
+  {
+   "id": "C21a",
+   "find": "Emerald Sword",
+   "replace": "Jade Saber",
+   "eps": [
+    150,
+    160
+   ],
+   "why": "Seymour's sword; Jill's Emerald Sword (235+) keeps name"
+  },
+  {
+   "id": "C21b",
+   "find": "Emerald Sword",
+   "replace": "Verdant Edge",
+   "eps": [
+    1030,
+    1040
+   ],
+   "why": "wind-forged blade"
+  },
+  {
+   "id": "C22",
+   "find": "Cerulean Blade",
+   "replace": "Azurite Blade",
+   "eps": [
+    15,
+    25
+   ],
+   "why": "Zane's father's sword; Finn Donovan's keeps name"
+  },
+  {
+   "id": "C23a",
+   "find": "Elder Shaw",
+   "replace": "Elder Marsh",
+   "eps": [
+    680,
+    790
+   ]
+  },
+  {
+   "id": "C23b",
+   "find": "Steward Shaw",
+   "replace": "Steward Hale",
+   "eps": [
+    1,
+    1321
+   ]
+  },
+  {
+   "id": "C23c",
+   "find": "Victor Shaw",
+   "replace": "Victor Vayne",
+   "eps": [
+    890,
+    915
+   ]
+  },
+  {
+   "id": "C23d",
+   "find": "Hank Shaw",
+   "replace": "Hank Mercer",
+   "eps": [
+    1,
+    1321
+   ]
+  },
+  {
+   "id": "C23e",
+   "find": "Alexander Shaw",
+   "replace": "Alexander Crewe",
+   "eps": [
+    885,
+    1321
+   ]
+  }
+ ],
+ "merges": [
+  {
+   "id": "M1",
+   "keep": "Coleman",
+   "absorb": "Jeffrey",
+   "eps": [
+    1273,
+    1318
+   ],
+   "source": "jin hai",
+   "note": "monk persona + hook feats become one character; scenes with both must be rewoven"
+  },
+  {
+   "id": "M2",
+   "keep": "Edwin",
+   "absorb": "Gregory",
+   "eps": [
+    787,
+    845
+   ],
+   "source": "zhan yun"
+  },
+  {
+   "id": "M3",
+   "keep": "Lacey",
+   "absorb": "Chantel",
+   "eps": [
+    943,
+    949
+   ],
+   "source": "lan bing",
+   "note": "same battle; reweave"
+  },
+  {
+   "id": "M4",
+   "keep": "Wynn",
+   "absorb": "Shayna",
+   "eps": [
+    258,
+    305
+   ],
+   "source": "xie yun",
+   "note": "fixes Shayna gender flip as side effect; Ep 258 co-appearance scene reworked"
+  },
+  {
+   "id": "M5",
+   "keep": "Cassian",
+   "absorb": "Exterminator",
+   "eps": [
+    1161,
+    1182
+   ],
+   "source": "mie",
+   "note": "show killed Cassian early; restore source continuity (Mie performs the later scenes)"
+  },
+  {
+   "id": "M6",
+   "keep": "TBD",
+   "absorb": "TBD",
+   "eps": [
+    58,
+    260
+   ],
+   "source": "zhuge feng",
+   "note": "Felix Sterling vs Frey - resolve via content check in step 3; merge only if show treats as same person"
+  },
+  {
+   "id": "M7",
+   "keep": "Max",
+   "absorb": "Max (Demi-Immortal)",
+   "eps": [
+    912,
+    969
+   ],
+   "source": "",
+   "note": "contextual: two Maxes overlap; rename Demi-Immortal Max to Vorn where context says Demi-Immortal"
+  }
+ ],
+ "gender_conformance": [
+  {
+   "id": "G1",
+   "character": "Aurora",
+   "to": "Male",
+   "eps": [
+    1220,
+    1321
+   ],
+   "source": "aizen",
+   "note": "exclude Eps 223-224 'aurora' light phenomenon"
+  },
+  {
+   "id": "G2",
+   "character": "Saint Viana",
+   "to": "Male",
+   "eps": [
+    171,
+    290
+   ],
+   "source": "zhenren tianqiong"
+  },
+  {
+   "id": "G3",
+   "character": "Trista",
+   "to": "Male",
+   "eps": [
+    78,
+    85
+   ],
+   "source": "",
+   "note": "single-ep character; conform"
+  }
+ ],
+ "contextual_rules": [
+  {
+   "id": "X1",
+   "rule": "War King vs War Emperor: keep as titles of distinct individuals (War King Wind, War Emperor York); unify generic rank mentions to 'War King'"
+  },
+  {
+   "id": "X2",
+   "rule": "Life Energy (= source zhen qi, pre-Nature/Adept) vs Life Force vs Vitality (= source zhen yuan): replace 'Life Force' with 'Vitality' where it denotes zhen yuan; keep 'Life Energy' for zhen qi; resolve 'Life-Essence' (14 uses) per context"
+  },
+  {
+   "id": "X3",
+   "rule": "Nature Level (Eps 18-185) vs Adept Realm (171+): both render source Xiantian. VERIFY via source alignment, then unify to 'Adept Realm' (incl. 'Innate Realm' leaks and 'Nature Spirit' check) OR document as era terms if verification shows distinct source tiers"
+  },
+  {
+   "id": "X4",
+   "rule": "'Misty Peaks' (4 uses): sect-plural typos -> 'Misty Peak'; map-region uses (Eps 134-146) -> 'Cloudy Mountains'"
+  },
+  {
+   "id": "X5",
+   "rule": "'Marrow Refining Stage' leak Ep 298 -> correct tier term per scene (likely 'Adept Realm' sub-grade)"
+  },
+  {
+   "id": "X6",
+   "rule": "Full-name enforcement at ambiguous bare-name mentions: Miles, Wilson, Kane, Dawson, Hawkins, Grey, plus post-rename residuals"
+  },
+  {
+   "id": "X7",
+   "rule": "Celestial Paragon -> Demi-Immortal (race mentions) but keep 'Golden Celestial Paragon' as the Talent Tablet title"
+  },
+  {
+   "id": "X8",
+   "rule": "Secret Realm bare uses not covered by T9: decide per location"
+  },
+  {
+   "id": "X9",
+   "rule": "Felix/Frey content check (M6): read Frey intro Eps 169-171 for continuity with Felix arc"
+  },
+  {
+   "id": "X10",
+   "rule": "Demon General/Demon Commander (early war arc) vs Ogre hierarchy: verify which source race each maps to; unify only if same"
+  }
+ ]
+}

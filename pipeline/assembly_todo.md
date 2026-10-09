@@ -12,3 +12,4 @@ STEP5 fixups:
 - Report flag: Aurora/Aizen source gender is MTL-ambiguous (Lord Aizen + himself vs 'tall slender woman'); chose Male per title evidence. Same class as Eden/Cui Yun.
 - Ep 891 "Nightjade Fighting Soul stage" — lowercase 'stage'; optionally normalize at step 5 (agent B declined).
 - Ep 270 "Wynn had already fallen, taken down by a personal disciple" contradicts Ep 280-281 winning-streak fight; check source ch ~250-257 for which disciple actually fell (agent suspects a misattribution); fix Ep 270 (and verify Ep 305 "in a single second" line vs the three-move fight).
+- Step5: coherence read of merged Coleman arc Eps 1273-1318 (beats split across Jeffrey/Coleman/Ansel/Rango renders of Jin Hai/Cang Mo; confirm one consistent Coleman persona + correct headcounts across episode boundaries).

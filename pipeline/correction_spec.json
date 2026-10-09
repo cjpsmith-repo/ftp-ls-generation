@@ -598,33 +598,6 @@
    ]
   },
   {
-   "id": "C23c",
-   "find": "Victor Shaw",
-   "replace": "Victor Vayne",
-   "eps": [
-    890,
-    915
-   ]
-  },
-  {
-   "id": "C23d",
-   "find": "Hank Shaw",
-   "replace": "Hank Mercer",
-   "eps": [
-    1,
-    1321
-   ]
-  },
-  {
-   "id": "C23e",
-   "find": "Alexander Shaw",
-   "replace": "Alexander Crewe",
-   "eps": [
-    885,
-    1321
-   ]
-  },
-  {
    "id": "S5",
    "find": "Frey",
    "replace": "Felix",
@@ -785,6 +758,7 @@
   "X8": "unified globally to Secret Land (T42)",
   "X9": "M6 resolved: keep Felix, absorb Frey (S5)",
   "M6": "resolved via S5",
-  "M3": "REVERTED - Chantel = tian xuan (distinct source character, Female); Lacey = lan bing. Not a split."
+  "M3": "REVERTED - Chantel = tian xuan (distinct source character, Female); Lacey = lan bing. Not a split.",
+  "C23cde": "REVERTED: 'Shaw' is the show's deliberate surname for the source Feng clan / Dragon-blooded (Alexander, Victor, Hank, Brianna, Arnold Shaw). Only unrelated Shaws renamed: Elder Marsh (Sect Master Xiao), Steward Hale (Deacon Xiao), House Calder (Cloudhaven house)."
  }
 }

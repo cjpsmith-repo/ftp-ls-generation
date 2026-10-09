@@ -1,0 +1,3016 @@
+[
+ {
+  "family": [
+   "Exemption Medallions"
+  ],
+  "total_midsent": 5,
+  "entities": [
+   {
+    "name": "Exemption Medallions",
+    "midsent": 5,
+    "eps": "1314-1318 (5 eps)",
+    "gender_signal": "m0/f0",
+    "distinct_mentions": {
+     "Exemption Medallions": 5
+    },
+    "contexts": [
+     "[Ep 1315] Ep 1315 - Let Her Go\n\nWord count: 1085\n\n \nAfter exploring the secret land, Slade had obtained three Exemption Medallions."
+    ],
+    "masterls": [],
+    "source_candidates": [
+     {
+      "name": "Xunmu",
+      "score": 1.6667,
+      "ch_range": "1293-1293 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "Otherwise, even if the Faith Pond was sealed, Xunmu would still drag Yao into hell."
+      ]
+     },
+     {
+      "name": "Soul Divine Power",
+      "score": 1.6667,
+      "ch_range": "1300-1300 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Jade Pure Sacred Master",
+      "score": 1.6667,
+      "ch_range": "1300-1300 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "\"Sacred Master, I have brought the person.\"\nThe Daoist robed old man was the Jade Pure Sacred Master.",
+       "After hearing Ninth Palace Master's words, the Jade Pure Sacred Master slowly withdrew his gaze.",
+       "Perhaps it was because of the cultivation method he cultivated, but the Jade Pure Sacred Master looked exceptionally old."
+      ]
+     },
+     {
+      "name": "Jade Pure Sacred Land",
+      "score": 1.6667,
+      "ch_range": "1300-1300 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "This naturally surprised the higher-ups of the Jade Pure Sacred Land."
+      ]
+     },
+     {
+      "name": "Jade Pure Martial Hall",
+      "score": 1.6667,
+      "ch_range": "1300-1300 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "She had also stepped into the core of the Jade Pure Martial Hall!"
+      ]
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "Illusory Battlefield (chs 1044-1310 (88 eps), m15/f9)",
+     "Ming Dao (chs 1287-1301 (13 eps), m40/f0)",
+     "Heavenly Dao (chs 156-1306 (112 eps), m13/f2)",
+     "Ji Nan (chs 1245-1302 (41 eps), m3/f36)",
+     "Karma Hall (chs 1236-1306 (49 eps), m10/f2)",
+     "Phantom (chs 1255-1301 (25 eps), m13/f13)",
+     "Fantasy Point (chs 1183-1308 (43 eps), m9/f1)",
+     "Divine Sea Realm (chs 497-1308 (313 eps), m53/f5)",
+     "Daoist (chs 107-1307 (20 eps), m7/f1)",
+     "Xun (chs 139-1306 (222 eps), m38/f132)",
+     "Holy Spear (chs 1149-1297 (7 eps), m1/f0)",
+     "Sacred Spear (chs 1292-1301 (5 eps), m1/f0)",
+     "Illusion Battlefield (chs 1180-1308 (23 eps), m7/f0)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Battle"
+  ],
+  "total_midsent": 5,
+  "entities": [
+   {
+    "name": "Battle",
+    "midsent": 5,
+    "eps": "885-1315 (5 eps)",
+    "gender_signal": "m1/f0",
+    "distinct_mentions": {
+     "Battle": 5
+    },
+    "contexts": [
+     "[Ep 137] Ep 137 - The Battle Of Life Force \nWord Count: 1213\n \n \n \nThe warrior\u2019s face twisted in pain.",
+     "[Ep 200] Ep 200 - Lopsided Battle\nWord Count: 1180\n \n \nThe ornate hall fell silent as Yates Moon, his face flushed with indignation, stepped forward.",
+     "[Ep 1221] For years now, he\u2019d poured serious effort into cultivating his Stellar Battle Body, and if it didn\u2019t work here, all that time would have been wasted.",
+     "[Ep 495] He drew a card and turned it over: \"Avoid Battle.\"\n\n \n\nThe card shattered in his grip.",
+     "[Ep 751] Ep 751 - The Battle of Oracle City\n\nWord count: 1159\n\n \n\n \n\nThe Double Stars Brilliance sat in Zane's hands like a lit fuse, boiling and unstable, ready to tear itself apart.",
+     "[Ep 751] Years later, warriors across The Heartlands would call this the Battle of Oracle City."
+    ],
+    "masterls": [],
+    "source_candidates": [
+     {
+      "name": "Seven-leaf",
+      "score": 0.8571,
+      "ch_range": "859-928 (2 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "Even if it's a cultivator who has attained the Seven-leaf stage, there are only a few hundred of them in a Great Realm.",
+       "There were only a few hundred cultivators who had attained the Seven-leaf stage in a Great Realm."
+      ]
+     },
+     {
+      "name": "Era of Evolution",
+      "score": 0.75,
+      "ch_range": "598-1299 (3 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "\"The Era of Evolution?",
+       "One Era of Evolution was 3.6 billion years old, and before that was 10 billion years ago."
+      ]
+     },
+     {
+      "name": "Xun",
+      "score": 0.6667,
+      "ch_range": "139-1306 (222 eps)",
+      "gender_signal": "m38/f132",
+      "contexts": [
+       "Among these tokens, there was one that was shining, and the word \"Xun\" was engraved on it.",
+       "He hadn't expected that after entering the Immortal Tomb of Heaven Mist, this \"Xun\" token would be able to resist the suppressive force!",
+       "However, no one knew what secret technique Xun had used to hide herself within the sword spirit."
+      ]
+     },
+     {
+      "name": "Upper Realm",
+      "score": 0.6667,
+      "ch_range": "405-1305 (147 eps)",
+      "gender_signal": "m7/f8",
+      "contexts": [
+       "Not to mention the words of the Ancient Phoenix Clan, Qinglong didn't even know the words of the Hundred Clans of the Upper Realm.",
+       "Through this transmission point, one could directly enter the Upper Realm!",
+       "Another reason was that the Rising Dragon Arena could be used as a path to the Upper Realm."
+      ]
+     },
+     {
+      "name": "Therefore",
+      "score": 0.6667,
+      "ch_range": "1-1310 (680 eps)",
+      "gender_signal": "m155/f38",
+      "contexts": [
+       "Therefore, the Blue Cloud Sect's rule is that apart from the children of landowning households, everyone else must pass the sea examination before they can participate in the Blue Cloud Sect's test.\"\n",
+       "Therefore, the most important thing was to surpass oneself and force oneself to break through the limits.",
+       "Therefore, Young Master Huo didn't need to remind Wang Hengzhi."
+      ]
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "Divine Sea Realm (chs 497-1308 (313 eps), m53/f5)",
+     "Upper Realm (chs 405-1305 (147 eps), m7/f8)",
+     "Heavenly Dao (chs 156-1306 (112 eps), m13/f2)",
+     "Great Thousand World (chs 148-1302 (68 eps), m7/f1)",
+     "Xun (chs 139-1306 (222 eps), m38/f132)",
+     "Yun Luo (chs 115-1283 (156 eps), m45/f153)",
+     "Ai Anxin (chs 1038-1221 (54 eps), m25/f77)",
+     "Divine Kingdom (chs 443-1291 (177 eps), m5/f3)",
+     "Demon Night Clan (chs 287-1295 (113 eps), m7/f9)",
+     "Sea God Continent (chs 553-1230 (128 eps), m8/f1)",
+     "Central Domain (chs 245-1304 (317 eps), m42/f3)",
+     "Ming Dao (chs 1287-1301 (13 eps), m40/f0)",
+     "Liu Yu (chs 574-1298 (71 eps), m1/f21)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Forsaken"
+  ],
+  "total_midsent": 5,
+  "entities": [
+   {
+    "name": "Forsaken",
+    "midsent": 5,
+    "eps": "931-1000 (3 eps)",
+    "gender_signal": "m0/f0",
+    "distinct_mentions": {
+     "Forsaken": 3
+    },
+    "contexts": [
+     "[Ep 931] But when the Forsaken had been hunting them through the void, Max had been bone-white with terror.",
+     "[Ep 932] Ep 932 - The Forsaken\n\nWord count: 1168\n\n \n\nThe seven warriors were all masters of the Spirit Supreme Realm, and from the looks of it, Max was the strongest of the bunch.",
+     "[Ep 932] \u201cThey are the Forsaken.\u201d\n\n\u201cThe Forsaken?\u201d Zane echoed, a flicker of interest in his eyes.",
+     "[Ep 932] The Shadow Creatures are made up of all sorts of different peoples, but the most powerful among them are the Forsaken.\u201d\n\nMax nodded.",
+     "[Ep 932] And the Forsaken hold absolute rule over them all."
+    ],
+    "masterls": [],
+    "source_candidates": [
+     {
+      "name": "Great Wide World Luo Zheng",
+      "score": 1.2,
+      "ch_range": "909-980 (2 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Great Thousand World Luo Zheng",
+      "score": 1.2,
+      "ch_range": "909-979 (2 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Xiao Qing",
+      "score": 1.0,
+      "ch_range": "911-911 (1 eps)",
+      "gender_signal": "m0/f3",
+      "contexts": []
+     },
+     {
+      "name": "Trial Tower",
+      "score": 1.0,
+      "ch_range": "905-905 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "Now, it seemed that Luo Zheng had been tested in the Trial Tower and was marked with the mark of the Demi-Immortal Tribe \u2026"
+      ]
+     },
+     {
+      "name": "Thunder Punishing Skylord",
+      "score": 1.0,
+      "ch_range": "903-903 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "I'm the subordinate of Thunder Punishing Skylord \u2026"
+      ]
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "Divine Kingdom (chs 443-1291 (177 eps), m5/f3)",
+     "Divine Sea Realm (chs 497-1308 (313 eps), m53/f5)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "Central Domain (chs 245-1304 (317 eps), m42/f3)",
+     "Ning Yudie (chs 420-1310 (204 eps), m39/f209)",
+     "Demi-Immortal Clan (chs 583-1308 (51 eps), m7/f1)",
+     "Qinglong (chs 2-1306 (191 eps), m91/f9)",
+     "Great Thousand World (chs 148-1302 (68 eps), m7/f1)",
+     "Boss Mo (chs 895-946 (25 eps), m19/f0)",
+     "Chaotic Astral Ocean (chs 243-1304 (41 eps), m4/f0)",
+     "Divine Kingdom Continent (chs 770-1042 (36 eps), m2/f1)",
+     "Gu Peier (chs 897-924 (17 eps), m0/f6)",
+     "Xi Youqin (chs 671-1310 (98 eps), m40/f154)",
+     "Divine Realm (chs 101-1306 (102 eps), m12/f2)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Soul Sealing Spell"
+  ],
+  "total_midsent": 5,
+  "entities": [
+   {
+    "name": "Soul Sealing Spell",
+    "midsent": 5,
+    "eps": "903-1001 (5 eps)",
+    "gender_signal": "m1/f2",
+    "distinct_mentions": {
+     "Soul Sealing Spell": 5
+    },
+    "contexts": [
+     "[Ep 927] She wasn't into women, but the Soul Sealing Spell was a fate far worse than marrying Dorothea."
+    ],
+    "masterls": [],
+    "source_candidates": [
+     {
+      "name": "Yuan",
+      "score": 0.6667,
+      "ch_range": "58-1293 (76 eps)",
+      "gender_signal": "m15/f9",
+      "contexts": [
+       "After the battle, I suggest Yuan Chengdong, Black Card \u2026",
+       "In the second battle, Yuan Xiao and Shi Lei were both personal disciples.",
+       "This was because whether it was Wen Fenqin, Yuan Xiao, or Shi Lei, all three of them were firmly in the top ten of the Azure Cloud Sect!"
+      ]
+     },
+     {
+      "name": "Upper Realm",
+      "score": 0.6667,
+      "ch_range": "405-1305 (147 eps)",
+      "gender_signal": "m7/f8",
+      "contexts": [
+       "Not to mention the words of the Ancient Phoenix Clan, Qinglong didn't even know the words of the Hundred Clans of the Upper Realm.",
+       "Through this transmission point, one could directly enter the Upper Realm!",
+       "Another reason was that the Rising Dragon Arena could be used as a path to the Upper Realm."
+      ]
+     },
+     {
+      "name": "Therefore",
+      "score": 0.6667,
+      "ch_range": "1-1310 (680 eps)",
+      "gender_signal": "m155/f38",
+      "contexts": [
+       "Therefore, the Blue Cloud Sect's rule is that apart from the children of landowning households, everyone else must pass the sea examination before they can participate in the Blue Cloud Sect's test.\"\n",
+       "Therefore, the most important thing was to surpass oneself and force oneself to break through the limits.",
+       "Therefore, Young Master Huo didn't need to remind Wang Hengzhi."
+      ]
+     },
+     {
+      "name": "Spirit Sea Realm",
+      "score": 0.6667,
+      "ch_range": "581-1265 (89 eps)",
+      "gender_signal": "m8/f1",
+      "contexts": [
+       "Every Holy Land only had a few Spirit Sea Realm powerhouses.",
+       "According to the classification of talents in the Central Domain, as long as a god-level genius didn't die, he was destined to enter the Spirit Sea Realm.",
+       "The fact that Liu Yu could become the most powerful warrior in the Spirit Sea Realm might not be due to the effect of the Moon Shadow Begonia."
+      ]
+     },
+     {
+      "name": "Qinglong",
+      "score": 0.6667,
+      "ch_range": "2-1306 (191 eps)",
+      "gender_signal": "m91/f9",
+      "contexts": [
+       "Only the Qinglong's eyes were open.",
+       "Even if all the treasures in the Eastern Region were used to smelt, it would still be difficult to light up all the scales on the Qinglong, not to mention that there were eight other dragons above the",
+       "Qinglong's indifferent eyes were looking down at him, revealing the supreme majesty of the Dragon Clan."
+      ]
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "Divine Sea Realm (chs 497-1308 (313 eps), m53/f5)",
+     "Divine Kingdom (chs 443-1291 (177 eps), m5/f3)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "Feng Nianyun (chs 878-1104 (33 eps), m8/f18)",
+     "Ancestral Dragon (chs 769-1106 (44 eps), m4/f1)",
+     "Great Thousand World (chs 148-1302 (68 eps), m7/f1)",
+     "Boss Mo (chs 895-946 (25 eps), m19/f0)",
+     "Demi-Immortal Clan (chs 583-1308 (51 eps), m7/f1)",
+     "Central Domain (chs 245-1304 (317 eps), m42/f3)",
+     "Divine Realm (chs 101-1306 (102 eps), m12/f2)",
+     "Qing Feng (chs 894-931 (22 eps), m10/f0)",
+     "Tianfeng War Emperor (chs 784-980 (47 eps), m33/f5)",
+     "Spirit Sea Realm (chs 581-1265 (89 eps), m8/f1)",
+     "Gu Pei (chs 897-931 (23 eps), m1/f20)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Silverwood Pavilion"
+  ],
+  "total_midsent": 5,
+  "entities": [
+   {
+    "name": "Silverwood Pavilion",
+    "midsent": 5,
+    "eps": "1080-1086 (3 eps)",
+    "gender_signal": "m0/f1",
+    "distinct_mentions": {
+     "Silverwood Pavilion": 3
+    },
+    "contexts": [
+     "[Ep 1080] \u201cI\u2019m afraid she\u2019ll be picked up by Silverwood Pavilion after this.\u201d\n\n\u201cWhen I went through this tower, thirteen thousand was my limit.\u201d\n\n \n\n \n\nPast sixteen thousand miles, Layla\u2019s body became wreathed in green light.",
+     "[Ep 1080] \u201cNo \u2014 if she had it, Silverwood Pavilion would know."
+    ],
+    "masterls": [],
+    "source_candidates": [
+     {
+      "name": "Sunset",
+      "score": 1.5,
+      "ch_range": "1066-1066 (1 eps)",
+      "gender_signal": "m1/f0",
+      "contexts": [
+       "One palace lord said, \"Sunset sector lord, shouldn't we forcefully bring that kid back?\"\nThe Sunset sector lord's face revealed a pondering expression.",
+       "Almost as soon as those stars shined, the Sunset World Master's eyebrows relaxed."
+      ]
+     },
+     {
+      "name": "Secondary Grade One Sacred Artifact",
+      "score": 1.5,
+      "ch_range": "1061-1061 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Rainbow Feather Robe",
+      "score": 1.5,
+      "ch_range": "1061-1061 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "\"Are you sure you want to choose this Rainbow Feather Robe?\" The Sunset Realm Lord asked."
+      ]
+     },
+     {
+      "name": "Primal Chaos Secret Arts",
+      "score": 1.5,
+      "ch_range": "1062-1062 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "Although it was affected by Luo Zheng's Primal Chaos Secret Arts, the Sunset Realm Master, Yun Luo, and many other Palace Masters outside the One Thought Sealed Tower didn't notice anything wrong."
+      ]
+     },
+     {
+      "name": "Inextinguishable Profound Flame",
+      "score": 1.5,
+      "ch_range": "1066-1066 (1 eps)",
+      "gender_signal": "m3/f0",
+      "contexts": [
+       "Luo Zheng wasn't in a hurry to extinguish the Inextinguishable Profound Flame.",
+       "Since those golden whirlpools were constantly absorbing the Inextinguishable Profound Flame, then he would absorb it to his heart's content.",
+       "As the Inextinguishable Profound Flame gradually extinguished, Luo Zheng's originally red body, which looked like it was made of molten steel, began to gradually cool down."
+      ]
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "Ai Anxin (chs 1038-1221 (54 eps), m25/f77)",
+     "Palace Master (chs 395-1300 (80 eps), m8/f0)",
+     "Yun Luo (chs 115-1283 (156 eps), m45/f153)",
+     "Torch Flame Inheritance (chs 1036-1300 (32 eps), m1/f0)",
+     "Thirteen Palaces (chs 1009-1300 (52 eps), m6/f1)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "Xue Muyang (chs 1040-1196 (14 eps), m9/f2)",
+     "Sunset Realm Lord (chs 1061-1089 (16 eps), m7/f0)",
+     "Sealed Tower (chs 1055-1058 (4 eps), m0/f0)",
+     "Palace Lord (chs 353-1100 (34 eps), m5/f0)",
+     "Law of Fire (chs 347-1282 (32 eps), m1/f0)",
+     "This Ai Anxin (chs 1054-1074 (6 eps), m2/f1)",
+     "Spring Fragrance Pavilion (chs 1060-1093 (4 eps), m0/f0)",
+     "Misty Cloud Palace (chs 995-1219 (31 eps), m7/f1)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Burns"
+  ],
+  "total_midsent": 5,
+  "entities": [
+   {
+    "name": "Burns",
+    "midsent": 5,
+    "eps": "455-772 (6 eps)",
+    "gender_signal": "m4/f0",
+    "distinct_mentions": {
+     "Burns": 6
+    },
+    "contexts": [
+     "[Ep 455] And the one with the perpetually red face was Burns.",
+     "[Ep 497] Burns, who had remained silent throughout the entire match, finally spoke.",
+     "[Ep 497] Burns, however, was a man of few words\u2014so few that disciples called him The Silent Man.",
+     "[Ep 736] Kieran, Hobbes, Burns, and the contingent from Cloud Hall were all watching, holding their breath.",
+     "[Ep 737] Behind them, Kieran, Hobbes, and Burns stood in silence for a moment.",
+     "[Ep 758] Kieran, Hobbes, and Burns broke from their positions and closed around Simon before he could take a step."
+    ],
+    "masterls": [
+     "[MasterLS/Characters] Burns: Supporting/Authority | 497 | World Merchants' Guild Alliance Chief. Spirit-Tribulation Realm. Called \"The Silent Man.\" Rosy complexion."
+    ],
+    "source_candidates": [
+     {
+      "name": "Mo Haishan",
+      "score": 0.8,
+      "ch_range": "442-749 (9 eps)",
+      "gender_signal": "m3/f0",
+      "contexts": [
+       "Mo Haishan, who was known as the \"Silent October,\" could not help but speak up.",
+       "After hearing Mo Haishan's words, the three of them looked at the Rising Dragon Arena not far away in unison.",
+       "Everyone's gazes were focused on Luo Zheng, especially Shi Kefan, Yan Yueshan, and Mo Haishan."
+      ]
+     },
+     {
+      "name": "Seventh Divine Reflection",
+      "score": 0.75,
+      "ch_range": "518-533 (2 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Low Saint",
+      "score": 0.75,
+      "ch_range": "519-533 (2 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "It was also a Low Saint rank sword."
+      ]
+     },
+     {
+      "name": "Little Die I",
+      "score": 0.75,
+      "ch_range": "444-525 (2 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Tianbei Domain",
+      "score": 0.7273,
+      "ch_range": "518-752 (5 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "As for the Central Domain where Luo Zheng lived, in the four Divine Kingdoms, it was called the Tianbei Domain.",
+       "\"I didn't expect that such a strong master could be born in the Tianbei Domain,\" the handsome man from the Divine Nation said indifferently.",
+       "Otherwise, why didn't the four Kingdoms show any interest in the \"Tianbei Domain\" after so many years?"
+      ]
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "Central Domain (chs 245-1304 (317 eps), m42/f3)",
+     "Ning Yudie (chs 420-1310 (204 eps), m39/f209)",
+     "Cloud Hall (chs 32-1304 (277 eps), m50/f19)",
+     "Cui Xie (chs 338-1159 (155 eps), m147/f7)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "World Business Alliance (chs 404-986 (119 eps), m12/f0)",
+     "Divine Core (chs 295-1303 (176 eps), m17/f2)",
+     "False Tribulation Realm (chs 428-967 (168 eps), m22/f0)",
+     "Divine Kingdom (chs 443-1291 (177 eps), m5/f3)",
+     "Divine Reflection (chs 79-953 (105 eps), m17/f5)",
+     "Martial Arts Conference (chs 437-948 (43 eps), m3/f0)",
+     "Shi Kefan (chs 442-933 (49 eps), m23/f0)",
+     "Void Spirit Sect (chs 395-1019 (104 eps), m7/f2)",
+     "Qinglong (chs 2-1306 (191 eps), m91/f9)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Vincent"
+  ],
+  "total_midsent": 5,
+  "entities": [
+   {
+    "name": "Vincent",
+    "midsent": 5,
+    "eps": "456-916 (3 eps)",
+    "gender_signal": "m2/f0",
+    "distinct_mentions": {
+     "Vincent": 3
+    },
+    "contexts": [
+     "[Ep 456] Vincent, you go try it!\" Raven tossed a Dragon Jade Pendant to a Black Mountain Sect warrior.",
+     "[Ep 456] Envy flickered across the gathered faces as Vincent stepped onto the platform.",
+     "[Ep 456] Vincent had ascended.",
+     "[Ep 456] \"This is Vincent's life crystal,\" he announced."
+    ],
+    "masterls": [],
+    "source_candidates": [
+     {
+      "name": "Xuan An",
+      "score": 0.8,
+      "ch_range": "443-505 (2 eps)",
+      "gender_signal": "m1/f0",
+      "contexts": [
+       "Xuan An, you go and try it!",
+       "Xuan An needed some time to break through from the first level to the sixth level, so all the warriors were waiting quietly in front of the Rising Dragon Platform.",
+       "About half an hour later, Xuan An finally passed all the tests and arrived at the top of the Rising Dragon Platform."
+      ]
+     },
+     {
+      "name": "Soul Strength",
+      "score": 0.8,
+      "ch_range": "447-507 (2 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "He seemed to be busy absorbing the Soul Strength contained within the Evil Owl Beast.",
+       "Now that Xun's Soul Strength had recovered by more than half, she, who possessed a Silver Soul, could even kill some experts if she caught them off guard."
+      ]
+     },
+     {
+      "name": "Upper Realm",
+      "score": 0.6667,
+      "ch_range": "405-1305 (147 eps)",
+      "gender_signal": "m7/f8",
+      "contexts": [
+       "Not to mention the words of the Ancient Phoenix Clan, Qinglong didn't even know the words of the Hundred Clans of the Upper Realm.",
+       "Through this transmission point, one could directly enter the Upper Realm!",
+       "Another reason was that the Rising Dragon Arena could be used as a path to the Upper Realm."
+      ]
+     },
+     {
+      "name": "Unfortunately",
+      "score": 0.6667,
+      "ch_range": "1-1302 (157 eps)",
+      "gender_signal": "m34/f3",
+      "contexts": [
+       "Unfortunately, this kind of opportunity didn't come often.",
+       "Unfortunately, the rules were set by the people of the Blue Cloud Sect, and the Blue Cloud Sect was inextricably linked to the landowning clans and even the Burning Sky Palace.",
+       "Unfortunately, his opponent was Luo Zheng."
+      ]
+     },
+     {
+      "name": "Therefore",
+      "score": 0.6667,
+      "ch_range": "1-1310 (680 eps)",
+      "gender_signal": "m155/f38",
+      "contexts": [
+       "Therefore, the Blue Cloud Sect's rule is that apart from the children of landowning households, everyone else must pass the sea examination before they can participate in the Blue Cloud Sect's test.\"\n",
+       "Therefore, the most important thing was to surpass oneself and force oneself to break through the limits.",
+       "Therefore, Young Master Huo didn't need to remind Wang Hengzhi."
+      ]
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "Central Domain (chs 245-1304 (317 eps), m42/f3)",
+     "Cloud Hall (chs 32-1304 (277 eps), m50/f19)",
+     "Ning Yudie (chs 420-1310 (204 eps), m39/f209)",
+     "World Business Alliance (chs 404-986 (119 eps), m12/f0)",
+     "Divine Core (chs 295-1303 (176 eps), m17/f2)",
+     "Divine Reflection Realm (chs 77-1092 (180 eps), m22/f0)",
+     "Cui Xie (chs 338-1159 (155 eps), m147/f7)",
+     "Hall Master (chs 162-1101 (79 eps), m4/f8)",
+     "False Tribulation Realm (chs 428-967 (168 eps), m22/f0)",
+     "Feng Nianyun (chs 878-1104 (33 eps), m8/f18)",
+     "Divine Sea Realm (chs 497-1308 (313 eps), m53/f5)",
+     "Void Spirit Sect (chs 395-1019 (104 eps), m7/f2)",
+     "Martial Arts Conference (chs 437-948 (43 eps), m3/f0)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Fleecy Downs"
+  ],
+  "total_midsent": 5,
+  "entities": [
+   {
+    "name": "Fleecy Downs",
+    "midsent": 5,
+    "eps": "475-734 (4 eps)",
+    "gender_signal": "m0/f0",
+    "distinct_mentions": {
+     "Fleecy Downs": 4
+    },
+    "contexts": [
+     "[Ep 508] He'd traveled thousands of miles from the Fleecy Downs for this tournament, and besides his girlfriend, he didn't know a soul in Oracle City.",
+     "[Ep 734] Zane remembered him instantly\u2014Owen, the saint-level genius from The Fleecy Downs."
+    ],
+    "masterls": [
+     "[MasterLS/Locations_and_Groups] Fleecy Downs: Location | 475 | Training area where Owen discovered a treasure hoard from an extinct order."
+    ],
+    "source_candidates": [
+     {
+      "name": "Martial Arts Contest",
+      "score": 1.0,
+      "ch_range": "467-497 (2 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Hulun Grassland",
+      "score": 0.8,
+      "ch_range": "446-713 (6 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "Because he had come here from the Hulun Grassland with the goal of entering the inner competition.",
+       "\"Ao Xiang from the Hulun Grassland, known as the terminator of the Shadow Wolf King."
+      ]
+     },
+     {
+      "name": "Three Corpses Gu",
+      "score": 0.8,
+      "ch_range": "494-494 (1 eps)",
+      "gender_signal": "m1/f0",
+      "contexts": [
+       "Si Miaoling looked at the insect with a smile and said, \"Three Corpses Gu, your determination to kill me is really strong.",
+       "This is what it means when the soul disperses \u2026\"\nThe Three Corpses Gu was an extremely vicious gu technique.",
+       "Even their brain matter and soul would be devoured by the Three Corpses Gu!"
+      ]
+     },
+     {
+      "name": "Soul Nourishing Pill",
+      "score": 0.8,
+      "ch_range": "491-491 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Rune Tower",
+      "score": 0.8,
+      "ch_range": "489-489 (1 eps)",
+      "gender_signal": "m1/f0",
+      "contexts": [
+       "Zong Rui from the Cloud Hall had also been sent to the Rune Tower to cultivate for several years.",
+       "These three Rune Masters were the masters of that Rune Tower.",
+       "\"Elder Xiao, are you joking with me?\"\nAlthough Tower Master Nie was a Divine Core warrior, because he was the Tower Master of the Rune Tower, his status was even higher than Elder Xiao, who was an Eld"
+      ]
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "Ning Yudie (chs 420-1310 (204 eps), m39/f209)",
+     "Central Domain (chs 245-1304 (317 eps), m42/f3)",
+     "World Business Alliance (chs 404-986 (119 eps), m12/f0)",
+     "Cloud Hall (chs 32-1304 (277 eps), m50/f19)",
+     "Cui Xie (chs 338-1159 (155 eps), m147/f7)",
+     "Divine Core (chs 295-1303 (176 eps), m17/f2)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "Void Spirit Sect (chs 395-1019 (104 eps), m7/f2)",
+     "False Tribulation Realm (chs 428-967 (168 eps), m22/f0)",
+     "Hall Master (chs 162-1101 (79 eps), m4/f8)",
+     "Si Miaoling (chs 396-986 (48 eps), m14/f23)",
+     "Ao Xiang (chs 446-1152 (29 eps), m29/f6)",
+     "Tian Xie Sect (chs 668-947 (59 eps), m0/f0)",
+     "Shi Kefan (chs 442-933 (49 eps), m23/f0)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Celestial-level"
+  ],
+  "total_midsent": 5,
+  "entities": [
+   {
+    "name": "Celestial-level",
+    "midsent": 5,
+    "eps": "493-521 (3 eps)",
+    "gender_signal": "m0/f0",
+    "distinct_mentions": {
+     "Celestial-level": 3
+    },
+    "contexts": [
+     "[Ep 510] He was also a Celestial-level talent and had once been the pride of the Ethereal Spirit Sect, right up until Brent arrived and took his spot.",
+     "[Ep 521] Though considered a Celestial-level martial talent, his lifelong obsession with runes had stalled him in the Inner-Core Realm."
+    ],
+    "masterls": [
+     "[MasterLS/Characters] Tia: Major supporting | 390-400 | Cloud Hall disciple. Initially disguised as a male disciple. Revealed as a powerful, beautiful woman in Ep 390. Named by the Cobalt Dragon in Ep 391. Possesses a sky-blue gem that summons an Ice Phoenix. Seeking the Crystal Key to the Sixth-Grade Sect's treasures. Cultivation level stated as first grade Soul Realm, but power exceeds that assessment. Cunning, fierce, an",
+     "[MasterLS/Cultivation_and_Tiers] Celestial-level (Heaven-level): Talent rank | 485+ | High tier. Benson's level. Sects scramble to recruit."
+    ],
+    "source_candidates": [
+     {
+      "name": "In the Martial Arts Conference",
+      "score": 1.2,
+      "ch_range": "482-502 (2 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Taoist Master Qing Xu",
+      "score": 0.8,
+      "ch_range": "474-493 (2 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "However, this cannot be underestimated,\" Taoist Master Qing Xu said faintly."
+      ]
+     },
+     {
+      "name": "Six Senses Sealing Art",
+      "score": 0.8,
+      "ch_range": "469-501 (2 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "Six Senses Sealing Art?",
+       "\"What is this Six Senses Sealing Art?\" Luo Zheng asked while gritting his teeth.",
+       "He quickly asked, \"Is this Six Senses Sealing Art harmful to a cultivator?\"\n\"It's harmless, but it can quickly increase a cultivator's cultivation."
+      ]
+     },
+     {
+      "name": "Sect Protecting Grand Formation",
+      "score": 0.8,
+      "ch_range": "501-511 (2 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "If they could convince Cui Xie to let Luo Yan go, they would be able to openly ask Luo Zheng to construct a Sect Protecting Grand Formation for their sect.",
+       "Otherwise, it would be difficult for the Sect Protecting Grand Formation to operate."
+      ]
+     },
+     {
+      "name": "Sect Protecting Grand Array",
+      "score": 0.8,
+      "ch_range": "501-511 (2 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "The Sect Protecting Grand Array of the Void Spirit Sect was enough to withstand the attack of a False Tribulation Realm martial artist."
+      ]
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "Divine Core (chs 295-1303 (176 eps), m17/f2)",
+     "Cui Xie (chs 338-1159 (155 eps), m147/f7)",
+     "Cloud Hall (chs 32-1304 (277 eps), m50/f19)",
+     "Central Domain (chs 245-1304 (317 eps), m42/f3)",
+     "Ning Yudie (chs 420-1310 (204 eps), m39/f209)",
+     "Si Miaoling (chs 396-986 (48 eps), m14/f23)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "Void Spirit Sect (chs 395-1019 (104 eps), m7/f2)",
+     "World Business Alliance (chs 404-986 (119 eps), m12/f0)",
+     "False Tribulation Realm (chs 428-967 (168 eps), m22/f0)",
+     "Martial Arts Conference (chs 437-948 (43 eps), m3/f0)",
+     "Cui Yun (chs 478-739 (23 eps), m12/f16)",
+     "Qinglong (chs 2-1306 (191 eps), m91/f9)",
+     "Hall Master (chs 162-1101 (79 eps), m4/f8)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Madness Trap"
+  ],
+  "total_midsent": 5,
+  "entities": [
+   {
+    "name": "Madness Trap",
+    "midsent": 5,
+    "eps": "523-529 (4 eps)",
+    "gender_signal": "m0/f0",
+    "distinct_mentions": {
+     "Madness Trap": 4
+    },
+    "contexts": [
+     "[Ep 524] \"Seal!\"\n \nThe Madness Trap was complete.",
+     "[Ep 529] He'd been lying in wait inside Cloud Hall for Zane's signal to spring the Madness Trap."
+    ],
+    "masterls": [],
+    "source_candidates": [
+     {
+      "name": "Three Great Mysterious Arrays",
+      "score": 1.6,
+      "ch_range": "511-511 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "Luo Zheng was even more stunned, \"Three Great Mysterious Arrays?",
+       "Could it be that the Major Heavenly Cycle Array isn't one of the Three Great Mysterious Arrays?\"\n\"Hehe, the Major Heavenly Cycle Array is indeed powerful, but the Three Great Mysterious Arrays are for",
+       "Its power is probably not even a billionth of the Major Heavenly Cycle Triple Kill Formation, but it's enough to be used as the sect-protecting array of the Central Domain.\"\nAlthough Qinglong didn't f"
+      ]
+     },
+     {
+      "name": "South Sea",
+      "score": 1.6,
+      "ch_range": "513-513 (1 eps)",
+      "gender_signal": "m2/f0",
+      "contexts": []
+     },
+     {
+      "name": "South China Sea",
+      "score": 1.6,
+      "ch_range": "513-513 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Nine Nether Lantern Grass",
+      "score": 1.6,
+      "ch_range": "512-512 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "Aside from the name card stating that the Jade Bone of the Immortal and the Nine Nether Lantern Grass were hidden in the Immortal Tomb, there was also the most important item, the Flower of Life and D"
+      ]
+     },
+     {
+      "name": "Moonkin Evil Spirit the Azure Dragon",
+      "score": 1.6,
+      "ch_range": "510-510 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "Cloud Hall (chs 32-1304 (277 eps), m50/f19)",
+     "Ning Yudie (chs 420-1310 (204 eps), m39/f209)",
+     "Central Domain (chs 245-1304 (317 eps), m42/f3)",
+     "Cui Xie (chs 338-1159 (155 eps), m147/f7)",
+     "Divine Core (chs 295-1303 (176 eps), m17/f2)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "Granny Yu (chs 502-1265 (25 eps), m0/f17)",
+     "World Business Alliance (chs 404-986 (119 eps), m12/f0)",
+     "False Tribulation Realm (chs 428-967 (168 eps), m22/f0)",
+     "Mister Zhuo (chs 354-708 (30 eps), m18/f1)",
+     "Divine Reflection Realm (chs 77-1092 (180 eps), m22/f0)",
+     "Divine Reflection (chs 79-953 (105 eps), m17/f5)",
+     "Zong Rui (chs 408-936 (16 eps), m22/f0)",
+     "Hall Master (chs 162-1101 (79 eps), m4/f8)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Poison King"
+  ],
+  "total_midsent": 5,
+  "entities": [
+   {
+    "name": "Poison King",
+    "midsent": 5,
+    "eps": "537-705 (4 eps)",
+    "gender_signal": "m0/f0",
+    "distinct_mentions": {
+     "Poison King": 4
+    },
+    "contexts": [
+     "[Ep 537] If the World Merchants' Guild remembers.\"\n \n\"The Poison King,\" Tia murmured.",
+     "[Ep 697] No one makes a move until I get there.\u201d\n\nBringing Simon, the so-called Poison King, into the fold had been a gamble.",
+     "[Ep 705] So what's your real play \u2014 Poison King?\"\nA pause."
+    ],
+    "masterls": [],
+    "source_candidates": [
+     {
+      "name": "Cloud Hall's Sect Protecting Array",
+      "score": 1.0,
+      "ch_range": "515-690 (4 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "Even the Tian Xie Sect wouldn't be able to break through the Cloud Hall's Sect Protecting Array."
+      ]
+     },
+     {
+      "name": "Dreamy Cloud Swamp",
+      "score": 1.0,
+      "ch_range": "532-683 (2 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Poison King Wu Zhanhe",
+      "score": 0.8889,
+      "ch_range": "528-685 (5 eps)",
+      "gender_signal": "m2/f0",
+      "contexts": [
+       "Poison King Wu Zhanhe had also joined Cui Xie's Kingdom of Evil Deities."
+      ]
+     },
+     {
+      "name": "Yunmeng Marsh",
+      "score": 0.8,
+      "ch_range": "683-683 (1 eps)",
+      "gender_signal": "m1/f0",
+      "contexts": [
+       "The fog in the Yunmeng Marsh might be a little troublesome for ordinary people and warriors with low cultivation.",
+       "The most troublesome thing was that although the Yunmeng Marsh looked very desolate, in fact, there were countless creatures lurking in this desolate marsh.",
+       "If Luo Zheng had avoided his search, he should have chosen to escape from the Yunmeng Marsh because this was an excellent opportunity."
+      ]
+     },
+     {
+      "name": "Void Spirit Sect Cui Xie",
+      "score": 0.8,
+      "ch_range": "681-681 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "Cui Xie (chs 338-1159 (155 eps), m147/f7)",
+     "Central Domain (chs 245-1304 (317 eps), m42/f3)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "Void Spirit Sect (chs 395-1019 (104 eps), m7/f2)",
+     "False Tribulation Realm (chs 428-967 (168 eps), m22/f0)",
+     "Cloud Hall (chs 32-1304 (277 eps), m50/f19)",
+     "Divine Core (chs 295-1303 (176 eps), m17/f2)",
+     "Xi Youqin (chs 671-1310 (98 eps), m40/f154)",
+     "Ning Yudie (chs 420-1310 (204 eps), m39/f209)",
+     "Divine Kingdom (chs 443-1291 (177 eps), m5/f3)",
+     "Void Sky City (chs 395-1043 (26 eps), m2/f3)",
+     "Wu Zhanhe (chs 523-986 (30 eps), m26/f0)",
+     "Xun (chs 139-1306 (222 eps), m38/f132)",
+     "Xi (chs 209-961 (22 eps), m4/f9)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Heavenly Eagle Prairie"
+  ],
+  "total_midsent": 5,
+  "entities": [
+   {
+    "name": "Heavenly Eagle Prairie",
+    "midsent": 5,
+    "eps": "562-684 (4 eps)",
+    "gender_signal": "m0/f0",
+    "distinct_mentions": {
+     "Heavenly Eagle Prairie": 4
+    },
+    "contexts": [
+     "[Ep 562] This was the Heavenly Eagle Prairie\u2014the northeast corner of the continent.",
+     "[Ep 680] Three months later, a few fluffy clouds drifted across the clear blue sky above the Heavenly Eagle Prairie."
+    ],
+    "masterls": [],
+    "source_candidates": [
+     {
+      "name": "Tower of Sin I",
+      "score": 1.3333,
+      "ch_range": "553-658 (2 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Upper Grade Fairy Weapon",
+      "score": 1.2,
+      "ch_range": "665-665 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Senior Brother Lang",
+      "score": 1.2,
+      "ch_range": "663-663 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "Senior Brother Lang!",
+       "\"But this person's strength \u2026\" A warrior stared at the person meditating at the bottom of the sea and said hesitantly, \"Senior Brother Lang, that is a warrior in the False Tribulation Realm!\"\nSenior B"
+      ]
+     },
+     {
+      "name": "Sect Elder Hu",
+      "score": 1.2,
+      "ch_range": "664-664 (1 eps)",
+      "gender_signal": "m5/f0",
+      "contexts": [
+       "Sect Elder Hu shook his head and said, \"It doesn't matter if he fights back or not, we'll still kill him.",
+       "Sect Elder Hu furrowed his brows.",
+       "\"\nWhen the leading female disciple called Yuan Qingwei saw Sect Elder Hu, she immediately stood up and said, \"Sect Elder Hu, there's a warrior here, and it looks like he's injured \u2026\"\nA strange smile e"
+      ]
+     },
+     {
+      "name": "Minor Chiliocosms",
+      "score": 1.2,
+      "ch_range": "659-659 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "Central Domain (chs 245-1304 (317 eps), m42/f3)",
+     "Demon Race (chs 14-1281 (146 eps), m34/f3)",
+     "Tower of Sin (chs 540-1231 (112 eps), m15/f2)",
+     "Xun (chs 139-1306 (222 eps), m38/f132)",
+     "Demon Night Clan (chs 287-1295 (113 eps), m7/f9)",
+     "Holy Land (chs 291-1304 (148 eps), m4/f1)",
+     "Sea God Continent (chs 553-1230 (128 eps), m8/f1)",
+     "Ling Yan (chs 592-925 (57 eps), m4/f23)",
+     "Human Race (chs 109-1295 (74 eps), m7/f0)",
+     "War Reverend (chs 549-928 (46 eps), m0/f0)",
+     "Sin Tower (chs 562-1030 (70 eps), m3/f0)",
+     "Meng Tian (chs 591-660 (21 eps), m27/f1)",
+     "Devil Race (chs 33-1282 (28 eps), m3/f0)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Your Majesty"
+  ],
+  "total_midsent": 5,
+  "entities": [
+   {
+    "name": "Your Majesty",
+    "midsent": 5,
+    "eps": "608-906 (14 eps)",
+    "gender_signal": "m0/f0",
+    "distinct_mentions": {
+     "Your Majesty": 14
+    },
+    "contexts": [
+     "[Ep 1000] And maybe I\u2019ll still call you \u2018Your Majesty\u2019 in the upper world, for old times\u2019 sake.",
+     "[Ep 794] \"No, Your Majesty.\"\n\n\"Good.",
+     "[Ep 800] Do not let me down.\u201d\n\n\u201cMy invincibility is just a rumor, Your Majesty,\u201d Logan replied, his tone humble but his eyes blazing with a confidence that bordered on arrogance.",
+     "[Ep 806] \u201cYour Majesty, I\u2019ve just found something very interesting.\u201d\n\n\u201cSomething interesting?\u201d War Emperor York\u2019s brow furrowed, his expression clouding over.",
+     "[Ep 807] \u201cI\u2019m not mistaken, Your Majesty.",
+     "[Ep 818] \u201cYour Majesty \u2014 should we stop her?\u201d\n\nWar King Wind's expression flickered."
+    ],
+    "masterls": [],
+    "source_candidates": [
+     {
+      "name": "War Emperor",
+      "score": 0.9091,
+      "ch_range": "777-883 (8 eps)",
+      "gender_signal": "m2/f0",
+      "contexts": [
+       "Why was the War Emperor so polite to him?",
+       "This was the War Emperor's Domain."
+      ]
+     },
+     {
+      "name": "Divine Nation Continent",
+      "score": 0.8235,
+      "ch_range": "782-854 (3 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "The first tier of the Divine Nation Continent referred to the top god-ranked geniuses.",
+       "She had a high chance of breaking the record and becoming the first empress of the Divine Nation Continent."
+      ]
+     },
+     {
+      "name": "Holy Kingdom",
+      "score": 0.8,
+      "ch_range": "718-1304 (6 eps)",
+      "gender_signal": "m1/f0",
+      "contexts": [
+       "Using the power of the Upper Realm, the Esoteric Sect had many followers in the four Holy Kingdoms.",
+       "There were many Martial Houses in the four Holy Kingdoms.",
+       "He even crossed the four Holy Kingdoms and arrived at the extreme north of the Holy Kingdoms, the largest wild continent!"
+      ]
+     },
+     {
+      "name": "West Dragon River",
+      "score": 0.7692,
+      "ch_range": "776-896 (12 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "Just a few dozen li away from the West Dragon River, there was a huge palace.",
+       "How could a place like the North Heaven Region give birth to such a monster?\"\nThe False Tribulation Realm warriors who could stand in the West Dragon River were basically divine geniuses in the four D",
+       "Beside the West Dragon River, the wind was howling."
+      ]
+     },
+     {
+      "name": "Battle Emperor Da Yu",
+      "score": 0.7619,
+      "ch_range": "780-892 (7 eps)",
+      "gender_signal": "m3/f2",
+      "contexts": [
+       "Would Battle Emperor Da Yu attack him?",
+       "Even though the few Divine Sea Realm cultivators didn't say anything, they were still unhappy with Battle Emperor Da Yu and Yun Longtao.",
+       "Even the Battle Emperor Da Yu would not call her by her name."
+      ]
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "Divine Sea Realm (chs 497-1308 (313 eps), m53/f5)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "Divine Kingdom (chs 443-1291 (177 eps), m5/f3)",
+     "Zhou Huang (chs 777-980 (56 eps), m12/f1)",
+     "False Tribulation Realm (chs 428-967 (168 eps), m22/f0)",
+     "Huo Yuner (chs 791-1014 (67 eps), m23/f83)",
+     "Luo Tianxing (chs 761-1278 (77 eps), m9/f0)",
+     "Tianfeng War Emperor (chs 784-980 (47 eps), m33/f5)",
+     "King Yan (chs 760-1053 (52 eps), m44/f0)",
+     "Spirit Sea Realm (chs 581-1265 (89 eps), m8/f1)",
+     "Qinglong (chs 2-1306 (191 eps), m91/f9)",
+     "Crown Prince (chs 214-1136 (50 eps), m18/f1)",
+     "Xun (chs 139-1306 (222 eps), m38/f132)",
+     "Divine Nation (chs 479-1014 (57 eps), m2/f0)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Goliath Bull-Toad"
+  ],
+  "total_midsent": 5,
+  "entities": [
+   {
+    "name": "Goliath Bull-Toad",
+    "midsent": 5,
+    "eps": "639-661 (5 eps)",
+    "gender_signal": "m0/f0",
+    "distinct_mentions": {
+     "Goliath Bull-Toad": 5
+    },
+    "contexts": [
+     "[Ep 641] Fabian hadn't wanted to provoke the Goliath Bull-Toad, but now he had no choice."
+    ],
+    "masterls": [],
+    "source_candidates": [
+     {
+      "name": "Stellar Combat Body",
+      "score": 1.3333,
+      "ch_range": "622-622 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "Although the 'Stellar Combat Body' was known as a transcendent divine might and the 'Sun-Moon-Star Map' was an inheritance from Immortal Mansion, the 'Stellar Combat Body' was a transcendent body tran",
+       "Thus, he needed to test out the power of the 'Stellar Combat Body'.",
+       "He was prepared to use the move of the 'Stellar Combat Body', but as he heard this man's words, Luo Zheng stopped."
+      ]
+     },
+     {
+      "name": "Nether Night",
+      "score": 1.3333,
+      "ch_range": "625-625 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "Naturally, their status in the Nether Night clan plummeted."
+      ]
+     },
+     {
+      "name": "Neptune Continent",
+      "score": 1.3333,
+      "ch_range": "623-623 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Mysterious Nether Death Ray",
+      "score": 1.3333,
+      "ch_range": "618-618 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Giant Mangku Toad",
+      "score": 1.3333,
+      "ch_range": "620-620 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "In the forbidden area in the west, it was said that there was a Giant Mangku Toad!",
+       "In the past, many races broke into the forbidden area and were swept away by the Giant Mangku Toad's thick tongue.",
+       "This Giant Mangku Toad was truly a ferocious creature."
+      ]
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "Xun (chs 139-1306 (222 eps), m38/f132)",
+     "Zhao Fenqin (chs 582-661 (49 eps), m30/f0)",
+     "Yun Luo (chs 115-1283 (156 eps), m45/f153)",
+     "Tower of Sin (chs 540-1231 (112 eps), m15/f2)",
+     "Ling Yan (chs 592-925 (57 eps), m4/f23)",
+     "Meng Chong (chs 582-679 (38 eps), m36/f1)",
+     "Sin Tower (chs 562-1030 (70 eps), m3/f0)",
+     "Mysterious Underworld Cave (chs 565-930 (34 eps), m4/f0)",
+     "Zhou Zhuohe (chs 583-652 (26 eps), m5/f0)",
+     "Profound Nether Cave (chs 567-659 (16 eps), m3/f0)",
+     "Demon Night Clan (chs 287-1295 (113 eps), m7/f9)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "Sea God Continent (chs 553-1230 (128 eps), m8/f1)",
+     "Xuanming Cave (chs 565-658 (18 eps), m0/f3)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Shadow-maws and Frost Wolves"
+  ],
+  "total_midsent": 5,
+  "entities": [
+   {
+    "name": "Shadow-maws and Frost Wolves",
+    "midsent": 5,
+    "eps": "647-649 (2 eps)",
+    "gender_signal": "m0/f0",
+    "distinct_mentions": {
+     "Shadow-maws and Frost Wolves": 2
+    },
+    "contexts": [
+     "[Ep 647] The moment Esther issued the command, they bolted, sprinting toward their only escape route while Shadow-maws and Frost Wolves closed in with terrifying speed.",
+     "[Ep 649] To survive, they developed specialized tools, and against the fire-fearing Shadow-maws and Frost Wolves, they created the Scorchplate."
+    ],
+    "masterls": [],
+    "source_candidates": [
+     {
+      "name": "Stellar Energy",
+      "score": 1.3333,
+      "ch_range": "630-630 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Sky Tiger",
+      "score": 1.3333,
+      "ch_range": "630-630 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "On Ling Yan's side, she led the two pinnacle war reverends of the Yao Night Clan and forced the three pinnacle war reverends of the Sky Tiger Clan and the Night Clan to retreat!"
+      ]
+     },
+     {
+      "name": "Qing Yuanzi",
+      "score": 1.3333,
+      "ch_range": "632-632 (1 eps)",
+      "gender_signal": "m1/f0",
+      "contexts": [
+       "\"I am Qing Yuanzi.",
+       "\"Then this door should be the treasure left behind by Qing Yuanzi, right?\" Ling Yan asked again."
+      ]
+     },
+     {
+      "name": "Purgatory Fire Snakes",
+      "score": 1.3333,
+      "ch_range": "628-628 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "And those two Purgatory Fire Snakes \u2026"
+      ]
+     },
+     {
+      "name": "Poisonous Ghost Martens",
+      "score": 1.3333,
+      "ch_range": "632-632 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "However, these Poisonous Ghost Martens were too strong."
+      ]
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "Zhao Fenqin (chs 582-661 (49 eps), m30/f0)",
+     "Xun (chs 139-1306 (222 eps), m38/f132)",
+     "Ling Yan (chs 592-925 (57 eps), m4/f23)",
+     "Yun Luo (chs 115-1283 (156 eps), m45/f153)",
+     "Zhou Zhuohe (chs 583-652 (26 eps), m5/f0)",
+     "Sin Tower (chs 562-1030 (70 eps), m3/f0)",
+     "Mysterious Underworld Cave (chs 565-930 (34 eps), m4/f0)",
+     "Profound Nether Cave (chs 567-659 (16 eps), m3/f0)",
+     "Tuna Bird (chs 618-658 (10 eps), m0/f0)",
+     "Tower of Sin (chs 540-1231 (112 eps), m15/f2)",
+     "Night Clan (chs 568-1285 (22 eps), m8/f0)",
+     "Meng Chong (chs 582-679 (38 eps), m36/f1)",
+     "Demon Clan (chs 93-1282 (89 eps), m10/f0)",
+     "Demon Night Clan (chs 287-1295 (113 eps), m7/f9)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Elder Holt"
+  ],
+  "total_midsent": 5,
+  "entities": [
+   {
+    "name": "Elder Holt",
+    "midsent": 5,
+    "eps": "684-687 (4 eps)",
+    "gender_signal": "m7/f0",
+    "distinct_mentions": {
+     "Elder Holt": 4
+    },
+    "contexts": [
+     "[Ep 684] \"Elder Holt, what are you trying to do?\" Tessa demanded.",
+     "[Ep 685] Elder Holt roared."
+    ],
+    "masterls": [],
+    "source_candidates": [
+     {
+      "name": "Upper Grade Fairy Weapon",
+      "score": 1.6,
+      "ch_range": "665-665 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Senior Brother Lang",
+      "score": 1.6,
+      "ch_range": "663-663 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "Senior Brother Lang!",
+       "\"But this person's strength \u2026\" A warrior stared at the person meditating at the bottom of the sea and said hesitantly, \"Senior Brother Lang, that is a warrior in the False Tribulation Realm!\"\nSenior B"
+      ]
+     },
+     {
+      "name": "Sect Elder Hu",
+      "score": 1.6,
+      "ch_range": "664-664 (1 eps)",
+      "gender_signal": "m5/f0",
+      "contexts": [
+       "Sect Elder Hu shook his head and said, \"It doesn't matter if he fights back or not, we'll still kill him.",
+       "Sect Elder Hu furrowed his brows.",
+       "\"\nWhen the leading female disciple called Yuan Qingwei saw Sect Elder Hu, she immediately stood up and said, \"Sect Elder Hu, there's a warrior here, and it looks like he's injured \u2026\"\nA strange smile e"
+      ]
+     },
+     {
+      "name": "Sect Chief Xiao",
+      "score": 1.6,
+      "ch_range": "667-667 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "If it wasn't the Fish Dragon Sect who did this, Sect Chief Xiao wouldn't have allowed Luo Zheng to frame them with such a crime."
+      ]
+     },
+     {
+      "name": "Mid Grade Saint Weapon",
+      "score": 1.6,
+      "ch_range": "665-665 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "Not to mention, this was a Mid Grade Saint Weapon!"
+      ]
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "Central Domain (chs 245-1304 (317 eps), m42/f3)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "Cui Xie (chs 338-1159 (155 eps), m147/f7)",
+     "Xun (chs 139-1306 (222 eps), m38/f132)",
+     "Sea God Continent (chs 553-1230 (128 eps), m8/f1)",
+     "Fish Dragon Sect (chs 663-909 (12 eps), m2/f1)",
+     "Cloud Hall (chs 32-1304 (277 eps), m50/f19)",
+     "Void Spirit Sect (chs 395-1019 (104 eps), m7/f2)",
+     "Divine Reflection Realm (chs 77-1092 (180 eps), m22/f0)",
+     "World Business Alliance (chs 404-986 (119 eps), m12/f0)",
+     "Tower of Sin (chs 540-1231 (112 eps), m15/f2)",
+     "False Tribulation Realm (chs 428-967 (168 eps), m22/f0)",
+     "Sect Master (chs 134-949 (64 eps), m4/f0)",
+     "Divine Core (chs 295-1303 (176 eps), m17/f2)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Dragon-Snare"
+  ],
+  "total_midsent": 5,
+  "entities": [
+   {
+    "name": "Dragon-Snare",
+    "midsent": 5,
+    "eps": "700-701 (2 eps)",
+    "gender_signal": "m0/f0",
+    "distinct_mentions": {
+     "Dragon-Snare": 2
+    },
+    "contexts": [
+     "[Ep 700] They were betting everything on Arnold\u2019s Dragon-Snare.",
+     "[Ep 700] The Dragon-Snare was supposed to be inescapable, even for a warrior at the Life-and-Death Realm."
+    ],
+    "masterls": [],
+    "source_candidates": [
+     {
+      "name": "Yunmeng Marsh",
+      "score": 1.3333,
+      "ch_range": "683-683 (1 eps)",
+      "gender_signal": "m1/f0",
+      "contexts": [
+       "The fog in the Yunmeng Marsh might be a little troublesome for ordinary people and warriors with low cultivation.",
+       "The most troublesome thing was that although the Yunmeng Marsh looked very desolate, in fact, there were countless creatures lurking in this desolate marsh.",
+       "If Luo Zheng had avoided his search, he should have chosen to escape from the Yunmeng Marsh because this was an excellent opportunity."
+      ]
+     },
+     {
+      "name": "Void Spirit Sect Cui Xie",
+      "score": 1.3333,
+      "ch_range": "681-681 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Seven Voidspirit Masters'",
+      "score": 1.3333,
+      "ch_range": "680-680 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Seven Sons of Void Spirit Sect",
+      "score": 1.3333,
+      "ch_range": "677-677 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Orange-toothed Crocodile",
+      "score": 1.3333,
+      "ch_range": "684-684 (1 eps)",
+      "gender_signal": "m1/f0",
+      "contexts": [
+       "This Orange-toothed Crocodile had two rows of orange-red teeth on its upper and lower jaws.",
+       "The Orange-toothed Crocodile was in so much pain that it couldn't help but roll on the water surface, splashing out waves.",
+       "These Orange-toothed Crocodiles posed no threat to Luo Zheng."
+      ]
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Cui Xie (chs 338-1159 (155 eps), m147/f7)",
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "Xi Youqin (chs 671-1310 (98 eps), m40/f154)",
+     "Central Domain (chs 245-1304 (317 eps), m42/f3)",
+     "Void Spirit Sect (chs 395-1019 (104 eps), m7/f2)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "Void Sky City (chs 395-1043 (26 eps), m2/f3)",
+     "False Tribulation Realm (chs 428-967 (168 eps), m22/f0)",
+     "Divine Kingdom (chs 443-1291 (177 eps), m5/f3)",
+     "Xun (chs 139-1306 (222 eps), m38/f132)",
+     "Wu Zhanhe (chs 523-986 (30 eps), m26/f0)",
+     "Divine Core (chs 295-1303 (176 eps), m17/f2)",
+     "Xi (chs 209-961 (22 eps), m4/f9)",
+     "Cloud Hall (chs 32-1304 (277 eps), m50/f19)",
+     "Early Divine Core (chs 379-972 (29 eps), m1/f1)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Pyreton"
+  ],
+  "total_midsent": 5,
+  "entities": [
+   {
+    "name": "Pyreton",
+    "midsent": 5,
+    "eps": "708-725 (4 eps)",
+    "gender_signal": "m0/f0",
+    "distinct_mentions": {
+     "Pyreton": 4
+    },
+    "contexts": [
+     "[Ep 708] They came down above Pyreton \u2014 a mid-sized settlement, nothing like Ethereal City or Cloudhaven.",
+     "[Ep 709] Ep 709 - The Violet-Core Physique\nWord count: 1079\n \n \nA comet of violet fire streaked across the sky, and for a terrifying moment, it was all anyone in Pyreton could see.",
+     "[Ep 709] a warrior?\u201d\nMost of Pyreton\u2019s powerful warriors had already marched off to follow their sects, leaving only ordinary folks behind.",
+     "[Ep 709] By nightfall, the strongest warriors left in Pyreton had gathered at a cautious distance, watching the violet light pulse steadily in the dark."
+    ],
+    "masterls": [],
+    "source_candidates": [
+     {
+      "name": "Zhuo Family",
+      "score": 1.3333,
+      "ch_range": "694-702 (2 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "It was at this critical juncture that the Zhuo Family of Cloud Sea City joined forces with several other third-grade families to launch a sudden attack.",
+       "How could the other aristocratic families in the Cloud Sea City be like your Zhuo Family?",
+       "This position originally belonged to the Zhuo Family, Chen Family, Fei Family, and Wu Family!"
+      ]
+     },
+     {
+      "name": "Radiance Grass",
+      "score": 1.3333,
+      "ch_range": "687-709 (2 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "He was the one who had visited all the famous mountains and great rivers in the Central Domain and collected the seeds of the Radiance Grass before giving them to Xi Youqin."
+      ]
+     },
+     {
+      "name": "Orange-toothed Crocodile",
+      "score": 1.2,
+      "ch_range": "684-684 (1 eps)",
+      "gender_signal": "m1/f0",
+      "contexts": [
+       "This Orange-toothed Crocodile had two rows of orange-red teeth on its upper and lower jaws.",
+       "The Orange-toothed Crocodile was in so much pain that it couldn't help but roll on the water surface, splashing out waves.",
+       "These Orange-toothed Crocodiles posed no threat to Luo Zheng."
+      ]
+     },
+     {
+      "name": "Orange Toothed Crocodile",
+      "score": 1.2,
+      "ch_range": "684-684 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "The full name of this crocodile was the Fine-Scaled Orange Toothed Crocodile.",
+       "Therefore, no warriors would want to hunt this Orange Toothed Crocodile.",
+       "In fact, ordinary Divine Core warriors weren't afraid of this Orange Toothed Crocodile."
+      ]
+     },
+     {
+      "name": "Light of Water Barrier",
+      "score": 1.2,
+      "ch_range": "690-690 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "With that thought in mind, Luo Zheng circled around the Light of Water Barrier and arrived at the bottom of the barrier."
+      ]
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "Cloud Hall (chs 32-1304 (277 eps), m50/f19)",
+     "Ning Yudie (chs 420-1310 (204 eps), m39/f209)",
+     "Cui Xie (chs 338-1159 (155 eps), m147/f7)",
+     "False Tribulation Realm (chs 428-967 (168 eps), m22/f0)",
+     "Central Domain (chs 245-1304 (317 eps), m42/f3)",
+     "Xi Youqin (chs 671-1310 (98 eps), m40/f154)",
+     "Divine Core (chs 295-1303 (176 eps), m17/f2)",
+     "Void Spirit Sect (chs 395-1019 (104 eps), m7/f2)",
+     "Hall Master (chs 162-1101 (79 eps), m4/f8)",
+     "Xun (chs 139-1306 (222 eps), m38/f132)",
+     "Cloud Sea City (chs 394-947 (30 eps), m2/f0)",
+     "Hua Tianming (chs 227-1304 (111 eps), m161/f0)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "Xi (chs 209-961 (22 eps), m4/f9)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Spirit Container"
+  ],
+  "total_midsent": 5,
+  "entities": [
+   {
+    "name": "Spirit Container",
+    "midsent": 5,
+    "eps": "738-808 (5 eps)",
+    "gender_signal": "m0/f0",
+    "distinct_mentions": {
+     "Spirit Container": 5
+    },
+    "contexts": [
+     "[Ep 808] \u201cWallace told me himself \u2014 Zane destroyed the Spirit Container he set up in the Heartlands."
+    ],
+    "masterls": [],
+    "source_candidates": [
+     {
+      "name": "Heartless Master",
+      "score": 1.1111,
+      "ch_range": "717-785 (4 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "\"\n\"Heartless Master, wait a moment, I'll go and invite the Monarch here!\"\nSeveral Virtual Tribulation Realm warriors who were waiting in the hall hurriedly flew away.",
+       "Situ Haotian smiled faintly at the Heartless Master.",
+       "The Heartless Master once said that the Spirit Goblet he set up in the Northern Heaven Region was destroyed by Luo Zheng."
+      ]
+     },
+     {
+      "name": "Eight Trigrams Mirror",
+      "score": 1.0,
+      "ch_range": "717-750 (3 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "At the same time, a painful scream came from the Eight Trigrams Mirror.",
+       "He cupped his hands towards Heartless Master and asked, \"Master, what's wrong?\"\n\"Hmph, the wisp of soul I projected through the Eight Trigrams Mirror was destroyed!\" The boy in the Eight Trigrams Mirr",
+       "\" The boy's face revealed a trace of an evil smile, and then his face gradually disappeared from the Eight Trigrams Mirror."
+      ]
+     },
+     {
+      "name": "Tian Yun City",
+      "score": 1.0,
+      "ch_range": "716-716 (1 eps)",
+      "gender_signal": "m1/f0",
+      "contexts": [
+       "Tian Yun City wasn't big, so Luo Zheng used his perception to explore.",
+       "On the originally low city wall of Tian Yun City, a light blue barrier suddenly began to appear.",
+       "The cage I set up in Tian Yun City actually captured a Middle Stage False Tribulation Realm cultivator!"
+      ]
+     },
+     {
+      "name": "Spirit Cup",
+      "score": 1.0,
+      "ch_range": "718-718 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Sky Charm City",
+      "score": 1.0,
+      "ch_range": "717-717 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "False Tribulation Realm (chs 428-967 (168 eps), m22/f0)",
+     "Central Domain (chs 245-1304 (317 eps), m42/f3)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "Divine Kingdom (chs 443-1291 (177 eps), m5/f3)",
+     "Divine Sea Realm (chs 497-1308 (313 eps), m53/f5)",
+     "Cloud Hall (chs 32-1304 (277 eps), m50/f19)",
+     "Ning Yudie (chs 420-1310 (204 eps), m39/f209)",
+     "Cui Xie (chs 338-1159 (155 eps), m147/f7)",
+     "World Business Alliance (chs 404-986 (119 eps), m12/f0)",
+     "Tianqi City (chs 428-1006 (52 eps), m2/f0)",
+     "Tian Xie Sect (chs 668-947 (59 eps), m0/f0)",
+     "Shi Kefan (chs 442-933 (49 eps), m23/f0)",
+     "Divine Core (chs 295-1303 (176 eps), m17/f2)",
+     "Divine Nation (chs 479-1014 (57 eps), m2/f0)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Violet Power Realm"
+  ],
+  "total_midsent": 5,
+  "entities": [
+   {
+    "name": "Violet Power Realm",
+    "midsent": 5,
+    "eps": "753-756 (4 eps)",
+    "gender_signal": "m1/f0",
+    "distinct_mentions": {
+     "Violet Power Realm": 4
+    },
+    "contexts": [
+     "[Ep 754] He figured she was hiding in the Violet Power Realm, connected to their world by a spatial anchor.",
+     "[Ep 754] Give it a try.\"\n\n \n\n \n\nInside the Violet Power Realm, the sky was an endless field of giant swords, suspended in perfect rows from horizon to horizon."
+    ],
+    "masterls": [],
+    "source_candidates": [
+     {
+      "name": "Sister Xun",
+      "score": 1.6,
+      "ch_range": "731-731 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "Xun \u2026\" Xi Youqin awkwardly called out, \"Sister Xun.\"\nAfter a while, spots of red light began to condense."
+      ]
+     },
+     {
+      "name": "Astral Storm",
+      "score": 1.6,
+      "ch_range": "736-736 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Where's Cui Xie",
+      "score": 1.3333,
+      "ch_range": "727-733 (2 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "\"Where's Cui Xie?\" Luo Zheng asked Xun.",
+       "Luo Zheng hugged Xi Youqin and continued to ask, \"Where's Cui Xie?\"\nCui Xie's life was very important, and Luo Zheng was most concerned about it."
+      ]
+     },
+     {
+      "name": "Tianqi City Luo Zheng",
+      "score": 1.3333,
+      "ch_range": "727-749 (2 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "This Cui Xie",
+      "score": 1.3333,
+      "ch_range": "724-729 (2 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "This Cui Xie \u2026"
+      ]
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "Cui Xie (chs 338-1159 (155 eps), m147/f7)",
+     "Central Domain (chs 245-1304 (317 eps), m42/f3)",
+     "Ning Yudie (chs 420-1310 (204 eps), m39/f209)",
+     "Tian Xie Sect (chs 668-947 (59 eps), m0/f0)",
+     "World Business Alliance (chs 404-986 (119 eps), m12/f0)",
+     "Tianqi City (chs 428-1006 (52 eps), m2/f0)",
+     "Cloud Hall (chs 32-1304 (277 eps), m50/f19)",
+     "Wu Zhanhe (chs 523-986 (30 eps), m26/f0)",
+     "Xun (chs 139-1306 (222 eps), m38/f132)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "Qinglong (chs 2-1306 (191 eps), m91/f9)",
+     "False Tribulation Realm (chs 428-967 (168 eps), m22/f0)",
+     "Divine Sea Realm (chs 497-1308 (313 eps), m53/f5)",
+     "Xi Youqin (chs 671-1310 (98 eps), m40/f154)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Wisteria Martial House"
+  ],
+  "total_midsent": 5,
+  "entities": [
+   {
+    "name": "Wisteria Martial House",
+    "midsent": 5,
+    "eps": "799-803 (4 eps)",
+    "gender_signal": "m1/f0",
+    "distinct_mentions": {
+     "Wisteria Martial House": 4
+    },
+    "contexts": [
+     "[Ep 799] Hearing their king, the warriors from the Wisteria Martial House and the other schools of his kingdom roared back as one, a sound like rolling thunder.",
+     "[Ep 801] He was supposed to be representing both the Wisteria Martial House and the Star Field Divine Kingdom, and he felt like he had let them all down.",
+     "[Ep 803] The fighters from Wisteria Martial House were the most fired up; though Willard wasn\u2019t one of them, he was from their kingdom, and a victory over Logan would be a victory for them all."
+    ],
+    "masterls": [
+     "[MasterLS/Characters] Tia: Major supporting | 390-400 | Cloud Hall disciple. Initially disguised as a male disciple. Revealed as a powerful, beautiful woman in Ep 390. Named by the Cobalt Dragon in Ep 391. Possesses a sky-blue gem that summons an Ice Phoenix. Seeking the Crystal Key to the Sixth-Grade Sect's treasures. Cultivation level stated as first grade Soul Realm, but power exceeds that assessment. Cunning, fierce, an"
+    ],
+    "source_candidates": [
+     {
+      "name": "Zhao Ruyi",
+      "score": 1.6,
+      "ch_range": "782-782 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Zhan Yun's Dragon Tooth",
+      "score": 1.6,
+      "ch_range": "779-779 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "\"Clang!\"\nThe second slash directly shattered Zhan Yun's Dragon Tooth into pieces!"
+      ]
+     },
+     {
+      "name": "Void Slashing Sword",
+      "score": 1.6,
+      "ch_range": "779-779 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "It's enough for him to be proud!\"\n\"However, Senior Brother Yun Tao's Void Slashing Sword is bound to cut off limbs.",
+       "I'm afraid this Zhan Yun is going to be miserable!\"\nHearing the discussions below, how could Zhan Yun not know the power of the Void Slashing Sword?",
+       "\"The Void Slashing Sword is bound to cut off limbs."
+      ]
+     },
+     {
+      "name": "Senior Brother Zhan Yun",
+      "score": 1.6,
+      "ch_range": "778-778 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "When our Senior Brother Zhan Yun goes up, he will beat the shit out of your Great Xuan Martial House!\"\n\"Humph, a Martial House full of eunuchs dares to jump out and speak!\"\nThe warriors of Profound Ja"
+      ]
+     },
+     {
+      "name": "Saintess of Great Yu Divine Kingdom",
+      "score": 1.6,
+      "ch_range": "779-779 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "False Tribulation Realm (chs 428-967 (168 eps), m22/f0)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "Divine Sea Realm (chs 497-1308 (313 eps), m53/f5)",
+     "Crown Prince (chs 214-1136 (50 eps), m18/f1)",
+     "King Yan (chs 760-1053 (52 eps), m44/f0)",
+     "Divine Kingdom (chs 443-1291 (177 eps), m5/f3)",
+     "King of Yan (chs 763-846 (25 eps), m26/f4)",
+     "Martial House (chs 756-826 (25 eps), m1/f0)",
+     "Yun Longtao (chs 777-818 (19 eps), m28/f0)",
+     "Zhan Yun (chs 764-782 (11 eps), m6/f0)",
+     "Zhou Huang (chs 777-980 (56 eps), m12/f1)",
+     "Divine Nation (chs 479-1014 (57 eps), m2/f0)",
+     "Void Tribulation Realm (chs 447-933 (29 eps), m2/f1)",
+     "Saintess (chs 526-1085 (30 eps), m0/f6)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "War King"
+  ],
+  "total_midsent": 5,
+  "entities": [
+   {
+    "name": "War King",
+    "midsent": 5,
+    "eps": "816-910 (9 eps)",
+    "gender_signal": "m2/f1",
+    "distinct_mentions": {
+     "War King": 9
+    },
+    "contexts": [
+     "[Ep 872] The War King\u2019s tone had been mild, but the implication underneath it was not.",
+     "[Ep 881] \u201cThose swords look far sharper, and that kid has nothing.\u201d\n\nThe War King just offered a helpless smile.",
+     "[Ep 885] The kid\u2019s future was blindingly bright, and for the first time, the War King had found someone he thought was actually worthy of his daughter, Fiona.",
+     "[Ep 889] Then the War King asked directly: \u201cAre you married?\u201d\n\n\u201cNo,\u201d Zane said."
+    ],
+    "masterls": [],
+    "source_candidates": [
+     {
+      "name": "Huo Yun",
+      "score": 1.125,
+      "ch_range": "790-900 (7 eps)",
+      "gender_signal": "m0/f1",
+      "contexts": [
+       "\"Therefore, I want to exchange pointers with you,\" Huo Yun 'er said with a gentle smile.",
+       "Presumably, Huo Chen, Huo Yun 'er, and King Yan more or less had life-saving things in their hands, right?",
+       "However, even though they were separated by more than ten floors, Luo Zheng's soul pressure still made King Yan, Huo Yun 'er, and the other warriors who had not left the leaf turn pale!"
+      ]
+     },
+     {
+      "name": "War Emperor",
+      "score": 1.0588,
+      "ch_range": "777-883 (8 eps)",
+      "gender_signal": "m2/f0",
+      "contexts": [
+       "Why was the War Emperor so polite to him?",
+       "This was the War Emperor's Domain."
+      ]
+     },
+     {
+      "name": "Tian Xing",
+      "score": 0.9091,
+      "ch_range": "852-867 (2 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Blood Sacrifice Force",
+      "score": 0.9091,
+      "ch_range": "866-881 (2 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "The Blood Sacrifice Force in the Heavenly Feather Holy Sea was dispelled a lot.",
+       "However, the Blood Sacrifice Force surrounding the Heavenly Star Secret Territory did not weaken at all."
+      ]
+     },
+     {
+      "name": "Tianxing",
+      "score": 0.875,
+      "ch_range": "852-888 (7 eps)",
+      "gender_signal": "m1/f0",
+      "contexts": [
+       "\"Look at this' Reverend Nan Hua, Xiang Tianxing 'in the corner.",
+       "\"Basically, all the famous independent warriors are here, such as the Confucian Sage Liu Wenchang, Nan Hua Venerable Xiang Tianxing, and the Eastern Evil King Cui Xie.",
+       "For example, Nan Hua Supremacy, Xiang Tianxing, Chu Nantu, and so on."
+      ]
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "Divine Sea Realm (chs 497-1308 (313 eps), m53/f5)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "Divine Kingdom (chs 443-1291 (177 eps), m5/f3)",
+     "Zhou Huang (chs 777-980 (56 eps), m12/f1)",
+     "Tianfeng War Emperor (chs 784-980 (47 eps), m33/f5)",
+     "Huo Yuner (chs 791-1014 (67 eps), m23/f83)",
+     "Luo Tianxing (chs 761-1278 (77 eps), m9/f0)",
+     "Spirit Sea Realm (chs 581-1265 (89 eps), m8/f1)",
+     "False Tribulation Realm (chs 428-967 (168 eps), m22/f0)",
+     "Qinglong (chs 2-1306 (191 eps), m91/f9)",
+     "Dragon Bloodline Clan (chs 424-889 (42 eps), m0/f1)",
+     "Upper Realm (chs 405-1305 (147 eps), m7/f8)",
+     "Feng Nianyun (chs 878-1104 (33 eps), m8/f18)",
+     "Divine Nation (chs 479-1014 (57 eps), m2/f0)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Heavenly Thunder Halberd"
+  ],
+  "total_midsent": 5,
+  "entities": [
+   {
+    "name": "Heavenly Thunder Halberd",
+    "midsent": 5,
+    "eps": "845-908 (5 eps)",
+    "gender_signal": "m0/f0",
+    "distinct_mentions": {
+     "Heavenly Thunder Halberd": 5
+    },
+    "contexts": [
+     "[Ep 865] Ep 865 - Time To Mine\n\nWord count: 1018\n\n \n\n \n\nThe Heavenly Thunder Halberd was already in Fredrick\u2019s hand, its runes flickering to life.",
+     "[Ep 865] In the entire union of the seven divine kingdoms, the value of a Heavenly Thunder Halberd was basically infinite.",
+     "[Ep 872] The Heavenly Thunder Halberd \u2014 both gone."
+    ],
+    "masterls": [],
+    "source_candidates": [
+     {
+      "name": "Luo Zheng's Soul Suppression",
+      "score": 1.0,
+      "ch_range": "846-846 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Divine Ranked",
+      "score": 1.0,
+      "ch_range": "846-846 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "That Divine Ranked genius had already stretched his hand towards the Black Star Pickaxe, but at this moment, his hand was frozen at this distance, unable to move an inch further \u2026",
+       "\"Puff puff puff puff puff \u2026\"\nLike rain, the ten or so Divine Ranked geniuses' corpses fell around Luo Zheng, and Luo Zheng stood in the middle of the corpses.",
+       "Now that these Divine Ranked geniuses saw the scene in front of them, each and every one of them was scared out of their wits."
+      ]
+     },
+     {
+      "name": "Zhou Zhihua",
+      "score": 0.8889,
+      "ch_range": "786-846 (4 eps)",
+      "gender_signal": "m1/f0",
+      "contexts": [
+       "Black Iron Godly Country was the world of the Zhou family, so the full name of Prince Yan was Zhou Zhihua \u2026"
+      ]
+     },
+     {
+      "name": "Semi-Divine Artifact",
+      "score": 0.8889,
+      "ch_range": "822-848 (4 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "Moreover, it can be ranked as a Semi-Divine Artifact!\"\nA one-time use treasure, and a Semi-Divine Artifact at that.",
+       "\"\nWhether it was the Semi-Divine Artifact on Huo Yuner's arm or Liu Xiu's Heavenly Thunder Combat Halberd, the aura and power contained within them were far beyond that of ordinary Divine Artifacts."
+      ]
+     },
+     {
+      "name": "Tree of Earth",
+      "score": 0.8571,
+      "ch_range": "847-852 (2 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "I knew it was buried in the Tree of Earth.",
+       "Qinglong laughed, \"This is the Calamity Flower of the Tree of Earth.\"\n\"Calamity Flower?"
+      ]
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "Divine Sea Realm (chs 497-1308 (313 eps), m53/f5)",
+     "Divine Kingdom (chs 443-1291 (177 eps), m5/f3)",
+     "Huo Yuner (chs 791-1014 (67 eps), m23/f83)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "King Yan (chs 760-1053 (52 eps), m44/f0)",
+     "Luo Tianxing (chs 761-1278 (77 eps), m9/f0)",
+     "Huo Chen (chs 817-900 (25 eps), m5/f0)",
+     "Black Star Pickaxe (chs 833-1285 (32 eps), m10/f0)",
+     "Zhou Huang (chs 777-980 (56 eps), m12/f1)",
+     "Tianfeng War Emperor (chs 784-980 (47 eps), m33/f5)",
+     "Liu Xiu (chs 815-867 (18 eps), m13/f1)",
+     "Dragon Bloodline Clan (chs 424-889 (42 eps), m0/f1)",
+     "False Tribulation Realm (chs 428-967 (168 eps), m22/f0)",
+     "Yue Ying (chs 774-846 (23 eps), m2/f13)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Purification Fire"
+  ],
+  "total_midsent": 5,
+  "entities": [
+   {
+    "name": "Purification Fire",
+    "midsent": 5,
+    "eps": "861-862 (2 eps)",
+    "gender_signal": "m0/f1",
+    "distinct_mentions": {
+     "Purification Fire": 2
+    },
+    "contexts": [
+     "[Ep 862] A blush crept up her pale cheeks, and her fingers trembled, causing the Purification Fire to pulse in time with her racing heart.",
+     "[Ep 862] He realized her Purification Fire could be used for so much more than just curses."
+    ],
+    "masterls": [],
+    "source_candidates": [
+     {
+      "name": "Wolf Fang Hammers",
+      "score": 1.3333,
+      "ch_range": "837-837 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "Although they were both middle-grade Immortal Artifacts like the sabers, the Wolf Fang Hammers were heavier and made with more materials."
+      ]
+     },
+     {
+      "name": "Upper Grade Holy Weapon",
+      "score": 1.3333,
+      "ch_range": "833-833 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "\"Ding, ding!\"\nThe originally invincible Upper Grade Holy Weapon did not have any effect at this moment!",
+       "The slender legs of the purple Ore Devouring Bug were only as thick as an arm, but when the Upper Grade Holy Weapon hit them, it only made a crisp sound and some sparks."
+      ]
+     },
+     {
+      "name": "This Huo Chen",
+      "score": 1.3333,
+      "ch_range": "840-840 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Origin Fire",
+      "score": 1.3333,
+      "ch_range": "840-840 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "Seeing his sister's expression, Huo Chen said, \"Sister, they demonstrated that this ore can withstand the burning of True Origin Fire.",
+       "Previously, he used his True Origin Fire to refine the Fire Core Ore."
+      ]
+     },
+     {
+      "name": "Mineral Tree",
+      "score": 1.3333,
+      "ch_range": "833-833 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "Until someone found the worms that grew on the Mineral Tree."
+      ]
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "Divine Kingdom (chs 443-1291 (177 eps), m5/f3)",
+     "Divine Sea Realm (chs 497-1308 (313 eps), m53/f5)",
+     "Huo Yuner (chs 791-1014 (67 eps), m23/f83)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "Black Star Pickaxe (chs 833-1285 (32 eps), m10/f0)",
+     "Golden Leaf (chs 833-850 (9 eps), m0/f0)",
+     "Yue Ying (chs 774-846 (23 eps), m2/f13)",
+     "Ore Devouring Bug (chs 829-867 (13 eps), m5/f0)",
+     "Huo Chen (chs 817-900 (25 eps), m5/f0)",
+     "False Tribulation Realm (chs 428-967 (168 eps), m22/f0)",
+     "King Yan (chs 760-1053 (52 eps), m44/f0)",
+     "Luo Tianxing (chs 761-1278 (77 eps), m9/f0)",
+     "Liu Xiu (chs 815-867 (18 eps), m13/f1)",
+     "Dragon Bloodline Clan (chs 424-889 (42 eps), m0/f1)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Hank Shaw",
+   "Hank"
+  ],
+  "total_midsent": 5,
+  "entities": [
+   {
+    "name": "Hank Shaw",
+    "midsent": 3,
+    "eps": "895-896 (2 eps)",
+    "gender_signal": "m0/f0",
+    "distinct_mentions": {
+     "Hank Shaw": 2
+    },
+    "contexts": [
+     "[Ep 896] The body shook violently, its jaw working as it struggled, and failed, to form the words \u201cHank Shaw.\u201d His fate was the same as Scott\u2019s."
+    ],
+    "masterls": [],
+    "source_candidates": [
+     {
+      "name": "Zhou Qing",
+      "score": 1.3333,
+      "ch_range": "867-867 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "However, Zhou Huang smiled faintly and said, \"Zhou Qing, take out all the spare Spirit Shrines!\"\nHearing this, the Divine Sea Realm cultivator named Zhou Qing was shocked."
+      ]
+     },
+     {
+      "name": "This Inner World",
+      "score": 1.3333,
+      "ch_range": "878-878 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Spirit Gathering",
+      "score": 1.3333,
+      "ch_range": "871-871 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "Furthermore, there was a Spirit Gathering Array that the Sacred Lord had personally set up."
+      ]
+     },
+     {
+      "name": "Spirit Cages",
+      "score": 1.3333,
+      "ch_range": "867-867 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "At this time, many Spirit Sea Realm warriors were sitting beside the Spirit Cages.",
+       "They threw their soul cores into the Spirit Cages.",
+       "After a while, he felt a strong suction force coming from the Spirit Cages!"
+      ]
+     },
+     {
+      "name": "Soul-purifying Light",
+      "score": 1.3333,
+      "ch_range": "870-870 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "Divine Sea Realm (chs 497-1308 (313 eps), m53/f5)",
+     "Zhou Huang (chs 777-980 (56 eps), m12/f1)",
+     "Divine Kingdom (chs 443-1291 (177 eps), m5/f3)",
+     "Spirit Sea Realm (chs 581-1265 (89 eps), m8/f1)",
+     "Tianfeng War Emperor (chs 784-980 (47 eps), m33/f5)",
+     "Dragon Bloodline (chs 422-889 (27 eps), m2/f0)",
+     "Huo Yuner (chs 791-1014 (67 eps), m23/f83)",
+     "Soul Purifying Light (chs 868-872 (5 eps), m0/f0)",
+     "Dragon Bloodline Clan (chs 424-889 (42 eps), m0/f1)",
+     "Divine Sea (chs 504-1305 (74 eps), m9/f1)",
+     "Soul Core (chs 830-896 (15 eps), m0/f0)",
+     "Monarch (chs 678-1186 (34 eps), m3/f0)",
+     "Luo Tianxing (chs 761-1278 (77 eps), m9/f0)"
+    ]
+   },
+   {
+    "name": "Hank",
+    "midsent": 2,
+    "eps": "896-930 (3 eps)",
+    "gender_signal": "m0/f0",
+    "distinct_mentions": {
+     "Hank": 3
+    },
+    "contexts": [
+     "[Ep 896] His soul began to merge with Hank\u2019s body, and with a creak of long-unused joints, the corpse slowly sat up and climbed out of its coffin.",
+     "[Ep 930] \u201cLet's go!\u201d Hank yelled."
+    ],
+    "masterls": [],
+    "source_candidates": [
+     {
+      "name": "Soul Sealing Technique",
+      "score": 1.2,
+      "ch_range": "878-904 (2 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "This Soul Sealing Technique can't be broken, so I can't control my body.\"\nLuo Zheng understood that Feng Nianyun was chained here and sealed in the crystal coffin.",
+       "Before the Soul Sealing Technique was broken, one couldn't fully control their own body.",
+       "But in comparison, the Soul Sealing Technique brought Feng Nianyun much more torment."
+      ]
+     },
+     {
+      "name": "Huo Yuner King Yan",
+      "score": 1.2,
+      "ch_range": "870-905 (2 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Xiao Qing",
+      "score": 1.0,
+      "ch_range": "911-911 (1 eps)",
+      "gender_signal": "m0/f3",
+      "contexts": []
+     },
+     {
+      "name": "Trial Tower",
+      "score": 1.0,
+      "ch_range": "905-905 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "Now, it seemed that Luo Zheng had been tested in the Trial Tower and was marked with the mark of the Demi-Immortal Tribe \u2026"
+      ]
+     },
+     {
+      "name": "Thunder Punishing Skylord",
+      "score": 1.0,
+      "ch_range": "903-903 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "I'm the subordinate of Thunder Punishing Skylord \u2026"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Chantel"
+  ],
+  "total_midsent": 5,
+  "entities": [
+   {
+    "name": "Chantel",
+    "midsent": 5,
+    "eps": "945-947 (3 eps)",
+    "gender_signal": "m0/f1",
+    "distinct_mentions": {
+     "Chantel": 3
+    },
+    "contexts": [
+     "[Ep 945] They had been in pursuit of Chantel, one of the Heavenly Feather Sanctuary\u2019s own masters.",
+     "[Ep 945] Chantel was already spent.",
+     "[Ep 946] Seeing this, Chantel, one of the Demon Night\u2019s Soul Sea Realm masters, didn\u2019t wait for an order.",
+     "[Ep 946] \u201cYou're with me,\u201d Reuben said, moving to block Chantel.",
+     "[Ep 947] Just then, Chantel spoke up, her face etched with worry."
+    ],
+    "masterls": [],
+    "source_candidates": [
+     {
+      "name": "This Devil Race Battle-Saint",
+      "score": 1.5,
+      "ch_range": "919-919 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "This Devil Race Battle-Saint was like a small mountain."
+      ]
+     },
+     {
+      "name": "Talent Tombstone",
+      "score": 1.5,
+      "ch_range": "925-925 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Soul Splitting Technique",
+      "score": 1.5,
+      "ch_range": "927-927 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Peak Battle-Supremes",
+      "score": 1.5,
+      "ch_range": "922-922 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "No wonder, no wonder \u2026\"\nWhen the group of Peak Battle-Supremes of the Demon Race were driven out of the Tower of Sin by Luo Zheng, Mo Xiao was furious!"
+      ]
+     },
+     {
+      "name": "Patriarch Mo Xiao",
+      "score": 1.5,
+      "ch_range": "922-922 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "At this time, everyone knew that Patriarch Mo Xiao was finally serious \u2026"
+      ]
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "Sea God Continent (chs 553-1230 (128 eps), m8/f1)",
+     "Divine Sea Realm (chs 497-1308 (313 eps), m53/f5)",
+     "Demon Night Clan (chs 287-1295 (113 eps), m7/f9)",
+     "Liu Yu (chs 574-1298 (71 eps), m1/f21)",
+     "Demon Race (chs 14-1281 (146 eps), m34/f3)",
+     "Tower of Sin (chs 540-1231 (112 eps), m15/f2)",
+     "Yu Ze (chs 899-930 (20 eps), m13/f0)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "Ha Peng (chs 891-931 (18 eps), m7/f0)",
+     "Gu Pei (chs 897-931 (23 eps), m1/f20)",
+     "Battle-Saint (chs 553-926 (37 eps), m1/f0)",
+     "Demi-Immortal Clan (chs 583-1308 (51 eps), m7/f1)",
+     "Qing Feng (chs 894-931 (22 eps), m10/f0)",
+     "Boss Mo (chs 895-946 (25 eps), m19/f0)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Sacred Vault"
+  ],
+  "total_midsent": 4,
+  "entities": [
+   {
+    "name": "Sacred Vault",
+    "midsent": 4,
+    "eps": "102-105 (3 eps)",
+    "gender_signal": "m0/f0",
+    "distinct_mentions": {
+     "Sacred Vault": 3
+    },
+    "contexts": [
+     "[Ep 102] Check them out, and then we'll deposit them in the Sacred Vault for you.\"\n \n \nAs a resident of The Capital, Ethan navigated the city's establishments with practiced ease.",
+     "[Ep 105] The staff at the Sacred Vault knew that anyone with a gold medallion was either incredibly wealthy or dangerously influential."
+    ],
+    "masterls": [],
+    "source_candidates": [
+     {
+      "name": "Weapon Refining Ancestral Technique'",
+      "score": 1.5,
+      "ch_range": "88-88 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Weapon Refinement Arts",
+      "score": 1.5,
+      "ch_range": "85-85 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "If it was before he went to Purgatory Mountain, Luo Zheng definitely wouldn't be willing to spend such a large amount of square crystals to buy < Weapon Refinement Arts >.",
+       "That was why this < Weapon Refinement Arts > was something Luo Zheng had to obtain."
+      ]
+     },
+     {
+      "name": "Upper Grade Xuan Tool",
+      "score": 1.5,
+      "ch_range": "90-90 (1 eps)",
+      "gender_signal": "m2/f0",
+      "contexts": [
+       "\"How many Upper Grade Xuan Tools do you have here?\" Luo Zheng asked.",
+       "In total, there are two hundred and twenty-three Upper Grade Xuan Tools.\"\nLuo Zheng slightly nodded his head.",
+       "He did not expect that he would meet a madman who opened his mouth and wanted to buy all of the Upper Grade Xuan Tools."
+      ]
+     },
+     {
+      "name": "Tianlu Ticket Office",
+      "score": 1.5,
+      "ch_range": "88-88 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "This Thousand Secrets Pavilion",
+      "score": 1.5,
+      "ch_range": "90-90 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "This Thousand Secrets Pavilion could be considered the largest shop in the market."
+      ]
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "Blue Cloud Sect (chs 1-1110 (304 eps), m34/f12)",
+     "Xiantian (chs 9-1111 (273 eps), m53/f1)",
+     "Zhuge Feng (chs 43-236 (22 eps), m25/f2)",
+     "Zhang Wuxian (chs 43-950 (45 eps), m59/f0)",
+     "Xiao Yufeng (chs 19-950 (118 eps), m18/f2)",
+     "Su Lingyun (chs 33-1043 (87 eps), m21/f100)",
+     "Mo Can (chs 14-951 (53 eps), m62/f0)",
+     "Brother Luo Zheng (chs 14-1304 (68 eps), m4/f1)",
+     "Tianlu Auction House (chs 82-207 (11 eps), m0/f0)",
+     "Family Zhuge (chs 28-238 (33 eps), m7/f1)",
+     "Asura Battlefield (chs 23-1296 (12 eps), m0/f0)",
+     "Hao Shige (chs 66-217 (12 eps), m9/f0)",
+     "Luo Yan (chs 2-1306 (156 eps), m49/f60)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Vitality Zane"
+  ],
+  "total_midsent": 4,
+  "entities": [
+   {
+    "name": "Vitality Zane",
+    "midsent": 4,
+    "eps": "124-808 (4 eps)",
+    "gender_signal": "m0/f0",
+    "distinct_mentions": {
+     "Vitality Zane": 4
+    },
+    "contexts": [],
+    "masterls": [],
+    "source_candidates": [
+     {
+      "name": "Heavenly Punishment Sword",
+      "score": 0.8,
+      "ch_range": "301-301 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "In the last battle with Hua Tianming, Pei Tianyao used the Immovable Wisdom King Body and broke Hua Tianming's Heavenly Punishment Sword that contained the Extreme Thunder Sword Essence.",
+       "So, his usage of baleful energy was actually at an extremely low level, and he'd completely relied on the might of his baleful energy to break through Heavenly Punishment Sword.",
+       "Even the Heavenly Punishment Sword was no match for the Immovable Wisdom King's projection."
+      ]
+     },
+     {
+      "name": "Green Lotus Karmic Fire",
+      "score": 0.8,
+      "ch_range": "302-302 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "It is only for the sake of burning the myriad worlds and turning them into an endless hell of fire \u2026\"\nAfter the surging Green Lotus Karmic Fire bloomed in Pei Tianyao's hand, it split into two flames,",
+       "The small one bloomed with thousands of lotus flowers and burned towards Yao Ye, whereas the enormous Green Lotus Karmic Fire in the Acala's hand smashed towards the ground.",
+       "The power of the Green Lotus Karmic Fire was far beyond anyone's imagination!"
+      ]
+     },
+     {
+      "name": "Buddha's Palm",
+      "score": 0.8,
+      "ch_range": "301-301 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Acala's Buddha's Palm",
+      "score": 0.8,
+      "ch_range": "301-301 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Zhen Yuan",
+      "score": 0.6667,
+      "ch_range": "47-1110 (79 eps)",
+      "gender_signal": "m12/f2",
+      "contexts": [
+       "Moreover, this kind of poison ignored the isolation of Zhen Yuan and directly penetrated into the human body.",
+       "Brother Luo Zheng's Zhen Yuan of Luo Zheng's eyes.....",
+       "However, every time he tried to extract Zhen Yuan, Luo Zheng would kick him again and scatter his condensed Zhen Yuan \u2026"
+      ]
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "Blue Cloud Sect (chs 1-1110 (304 eps), m34/f12)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "Luo Yan (chs 2-1306 (156 eps), m49/f60)",
+     "Pei Tianyao (chs 264-734 (60 eps), m56/f1)",
+     "Xiantian (chs 9-1111 (273 eps), m53/f1)",
+     "Zhu Qianning (chs 101-487 (31 eps), m14/f29)",
+     "Hua Tianming (chs 227-1304 (111 eps), m161/f0)",
+     "False Tribulation Realm (chs 428-967 (168 eps), m22/f0)",
+     "Divine Kingdom (chs 443-1291 (177 eps), m5/f3)",
+     "Divine Sea Realm (chs 497-1308 (313 eps), m53/f5)",
+     "Yun Longtao (chs 777-818 (19 eps), m28/f0)",
+     "Zhou Huang (chs 777-980 (56 eps), m12/f1)",
+     "Divine Reflection Realm (chs 77-1092 (180 eps), m22/f0)",
+     "Xiao Yufeng (chs 19-950 (118 eps), m18/f2)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Harpies"
+  ],
+  "total_midsent": 4,
+  "entities": [
+   {
+    "name": "Harpies",
+    "midsent": 4,
+    "eps": "125-132 (2 eps)",
+    "gender_signal": "m0/f1",
+    "distinct_mentions": {
+     "Harpies": 2
+    },
+    "contexts": [],
+    "masterls": [],
+    "source_candidates": [
+     {
+      "name": "Thunder Cleansing Stone",
+      "score": 1.3333,
+      "ch_range": "114-114 (1 eps)",
+      "gender_signal": "m0/f1",
+      "contexts": []
+     },
+     {
+      "name": "Thearch Army",
+      "score": 1.3333,
+      "ch_range": "113-113 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "After the ball of light disappeared, the Thearch Army general walked over with a gloomy expression and shouted, \"Even if you are a member of the Family Zhu, you still have to give me an explanation.",
+       "Only the Thearch Army has the right to judge him!\" The Thearch Army general's hand flickered with true essence, and another mini Five-Clawed Golden Dragon coiled around his hand.",
+       "\" The Thearch Army general waved his hand, and the Five-Clawed Golden Dragon in his hand expanded."
+      ]
+     },
+     {
+      "name": "Startling Dragon",
+      "score": 1.3333,
+      "ch_range": "112-112 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Spirit Stun Thorn",
+      "score": 1.3333,
+      "ch_range": "113-113 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Nine Chi Dichroic Mirror",
+      "score": 1.3333,
+      "ch_range": "115-115 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "White Emperor City (chs 93-634 (41 eps), m3/f1)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "Blue Cloud Sect (chs 1-1110 (304 eps), m34/f12)",
+     "Zhu Qianning (chs 101-487 (31 eps), m14/f29)",
+     "Zhu Feihang (chs 107-185 (13 eps), m8/f1)",
+     "Imperial Army (chs 49-375 (29 eps), m2/f0)",
+     "Yun Luo (chs 115-1283 (156 eps), m45/f153)",
+     "Xiantian (chs 9-1111 (273 eps), m53/f1)",
+     "Divine Reflection Realm (chs 77-1092 (180 eps), m22/f0)",
+     "Demon Race (chs 14-1281 (146 eps), m34/f3)",
+     "Qi (chs 8-1305 (83 eps), m13/f5)",
+     "Demon Clan (chs 93-1282 (89 eps), m10/f0)",
+     "Demon General (chs 98-234 (21 eps), m17/f1)",
+     "Family Zhu (chs 101-194 (14 eps), m3/f0)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "High Smith"
+  ],
+  "total_midsent": 4,
+  "entities": [
+   {
+    "name": "High Smith",
+    "midsent": 4,
+    "eps": "126-132 (2 eps)",
+    "gender_signal": "m0/f0",
+    "distinct_mentions": {
+     "High Smith": 2
+    },
+    "contexts": [
+     "[Ep 126] Preston had warned him not to underestimate Zane, that he was more than just some High Smith."
+    ],
+    "masterls": [],
+    "source_candidates": [
+     {
+      "name": "Thunder Cleansing Stone",
+      "score": 1.3333,
+      "ch_range": "114-114 (1 eps)",
+      "gender_signal": "m0/f1",
+      "contexts": []
+     },
+     {
+      "name": "Thearch Army",
+      "score": 1.3333,
+      "ch_range": "113-113 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "After the ball of light disappeared, the Thearch Army general walked over with a gloomy expression and shouted, \"Even if you are a member of the Family Zhu, you still have to give me an explanation.",
+       "Only the Thearch Army has the right to judge him!\" The Thearch Army general's hand flickered with true essence, and another mini Five-Clawed Golden Dragon coiled around his hand.",
+       "\" The Thearch Army general waved his hand, and the Five-Clawed Golden Dragon in his hand expanded."
+      ]
+     },
+     {
+      "name": "Startling Dragon",
+      "score": 1.3333,
+      "ch_range": "112-112 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Spirit Stun Thorn",
+      "score": 1.3333,
+      "ch_range": "113-113 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Nine Chi Dichroic Mirror",
+      "score": 1.3333,
+      "ch_range": "115-115 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "White Emperor City (chs 93-634 (41 eps), m3/f1)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "Blue Cloud Sect (chs 1-1110 (304 eps), m34/f12)",
+     "Zhu Feihang (chs 107-185 (13 eps), m8/f1)",
+     "Imperial Army (chs 49-375 (29 eps), m2/f0)",
+     "Yun Luo (chs 115-1283 (156 eps), m45/f153)",
+     "Zhu Qianning (chs 101-487 (31 eps), m14/f29)",
+     "Divine Reflection Realm (chs 77-1092 (180 eps), m22/f0)",
+     "Qi (chs 8-1305 (83 eps), m13/f5)",
+     "Demon Clan (chs 93-1282 (89 eps), m10/f0)",
+     "Xiantian (chs 9-1111 (273 eps), m53/f1)",
+     "Family Zhu (chs 101-194 (14 eps), m3/f0)",
+     "Demon Race (chs 14-1281 (146 eps), m34/f3)",
+     "Demon King (chs 109-520 (16 eps), m3/f1)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Greene County"
+  ],
+  "total_midsent": 4,
+  "entities": [
+   {
+    "name": "Greene County",
+    "midsent": 4,
+    "eps": "146-147 (2 eps)",
+    "gender_signal": "m0/f0",
+    "distinct_mentions": {
+     "Greene County": 2
+    },
+    "contexts": [],
+    "masterls": [],
+    "source_candidates": [
+     {
+      "name": "Yan Lianjun",
+      "score": 1.3333,
+      "ch_range": "127-127 (1 eps)",
+      "gender_signal": "m3/f0",
+      "contexts": [
+       "\"Xing, Xing Tiansu, how can I, Luo Zheng, receive such a great bow from you?\"\n\"In ancient times, Yan Lianjun prostrated himself on all fours in order to save a life.",
+       "Yan Lianjun was a virtuous gentleman in ancient times."
+      ]
+     },
+     {
+      "name": "Yan Jiu's Quintessential Origin Energy",
+      "score": 1.3333,
+      "ch_range": "135-135 (1 eps)",
+      "gender_signal": "m1/f0",
+      "contexts": [
+       "However, the black fog hadn't been created by Yan Jiu's Quintessential Origin Energy."
+      ]
+     },
+     {
+      "name": "Wolf Tooth Club",
+      "score": 1.3333,
+      "ch_range": "136-136 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "\"Bang!\"\nOne of the giants, holding a Wolf Tooth Club, smashed it fiercely at the Thunder Leopard."
+      ]
+     },
+     {
+      "name": "Wolf Teeth Club",
+      "score": 1.3333,
+      "ch_range": "136-136 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "Facing the huge Wolf Teeth Club descending from the sky, the Rushing Thunder Leopard suddenly raised an electric current under its feet.",
+       "Immediately, it turned into a lightning bolt and fiercely rushed forward, avoiding the Wolf Teeth Club."
+      ]
+     },
+     {
+      "name": "Weapon Refining Secret Manual",
+      "score": 1.3333,
+      "ch_range": "128-128 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "Luo Zheng, you're also proficient in the Weapon Refining Secret Manual?"
+      ]
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "Xiantian (chs 9-1111 (273 eps), m53/f1)",
+     "White Emperor City (chs 93-634 (41 eps), m3/f1)",
+     "Yun Luo (chs 115-1283 (156 eps), m45/f153)",
+     "Divine Reflection Realm (chs 77-1092 (180 eps), m22/f0)",
+     "Demon King (chs 109-520 (16 eps), m3/f1)",
+     "Blue Cloud Sect (chs 1-1110 (304 eps), m34/f12)",
+     "Soaring Phoenix Crystal (chs 128-551 (11 eps), m1/f0)",
+     "Fortunately (chs 19-1298 (126 eps), m20/f6)",
+     "Emperor's Army (chs 60-132 (10 eps), m0/f0)",
+     "Eastern Region (chs 1-1265 (89 eps), m4/f0)",
+     "Demon Race (chs 14-1281 (146 eps), m34/f3)",
+     "Imperial Army (chs 49-375 (29 eps), m2/f0)",
+     "Che Daozi (chs 84-404 (15 eps), m17/f0)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Pink Force Field"
+  ],
+  "total_midsent": 4,
+  "entities": [
+   {
+    "name": "Pink Force Field",
+    "midsent": 4,
+    "eps": "148-148 (1 eps)",
+    "gender_signal": "m0/f0",
+    "distinct_mentions": {
+     "Pink Force Field": 1
+    },
+    "contexts": [
+     "[Ep 148] The beast dashed toward the Pink Force Field.",
+     "[Ep 148] \"I wonder how much I could get for this on the East Side Market,\" he sighed, staring at the Demon Core resting just outside the Pink Force Field."
+    ],
+    "masterls": [],
+    "source_candidates": [
+     {
+      "name": "Yan Jiu's Quintessential Origin Energy",
+      "score": 1.0,
+      "ch_range": "135-135 (1 eps)",
+      "gender_signal": "m1/f0",
+      "contexts": [
+       "However, the black fog hadn't been created by Yan Jiu's Quintessential Origin Energy."
+      ]
+     },
+     {
+      "name": "Wolf Tooth Club",
+      "score": 1.0,
+      "ch_range": "136-136 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "\"Bang!\"\nOne of the giants, holding a Wolf Tooth Club, smashed it fiercely at the Thunder Leopard."
+      ]
+     },
+     {
+      "name": "Wolf Teeth Club",
+      "score": 1.0,
+      "ch_range": "136-136 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "Facing the huge Wolf Teeth Club descending from the sky, the Rushing Thunder Leopard suddenly raised an electric current under its feet.",
+       "Immediately, it turned into a lightning bolt and fiercely rushed forward, avoiding the Wolf Teeth Club."
+      ]
+     },
+     {
+      "name": "Weapon Refining Secret Manual",
+      "score": 1.0,
+      "ch_range": "128-128 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "Luo Zheng, you're also proficient in the Weapon Refining Secret Manual?"
+      ]
+     },
+     {
+      "name": "Weapon Refining Ancestral Law",
+      "score": 1.0,
+      "ch_range": "129-129 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "Xiantian (chs 9-1111 (273 eps), m53/f1)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "Fortunately (chs 19-1298 (126 eps), m20/f6)",
+     "White Emperor City (chs 93-634 (41 eps), m3/f1)",
+     "Yun Luo (chs 115-1283 (156 eps), m45/f153)",
+     "Divine Reflection Realm (chs 77-1092 (180 eps), m22/f0)",
+     "Eastern Region (chs 1-1265 (89 eps), m4/f0)",
+     "Jade Dragon Valley (chs 95-970 (8 eps), m1/f0)",
+     "Divine Reflection (chs 79-953 (105 eps), m17/f5)",
+     "Phoenix Soaring Crystal (chs 129-599 (14 eps), m3/f0)",
+     "Emperor's Army (chs 60-132 (10 eps), m0/f0)",
+     "Divine Realm (chs 101-1306 (102 eps), m12/f2)",
+     "Demon King (chs 109-520 (16 eps), m3/f1)",
+     "Soaring Phoenix Crystal (chs 128-551 (11 eps), m1/f0)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Wilson"
+  ],
+  "total_midsent": 4,
+  "entities": [
+   {
+    "name": "Wilson",
+    "midsent": 4,
+    "eps": "151-153 (3 eps)",
+    "gender_signal": "m3/f0",
+    "distinct_mentions": {
+     "Wilson": 3
+    },
+    "contexts": [
+     "[Ep 151] Yet the long-haired woman, Wilson, and two other Soul Realm masters remained unmoved.",
+     "[Ep 153] The long-haired woman, Old Wilson, Seymour, and the other Soul Realm masters exchanged loaded glances.",
+     "[Ep 153] \"Wilson.",
+     "[Ep 153] \u201cWhat if I give it a try?\u201d\n\"You?\" Wilson shrieked, glaring at Zane."
+    ],
+    "masterls": [
+     "[MasterLS/Characters] Jacob Wilson: Major supporting | 253-300+ | Personal disciple (Sect's Chosen). Zane's key ally. Introduced at Grade Two Adept. Progresses significantly through tournament."
+    ],
+    "source_candidates": [
+     {
+      "name": "Yan Jiu's Quintessential Origin Energy",
+      "score": 1.5,
+      "ch_range": "135-135 (1 eps)",
+      "gender_signal": "m1/f0",
+      "contexts": [
+       "However, the black fog hadn't been created by Yan Jiu's Quintessential Origin Energy."
+      ]
+     },
+     {
+      "name": "Wolf Tooth Club",
+      "score": 1.5,
+      "ch_range": "136-136 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "\"Bang!\"\nOne of the giants, holding a Wolf Tooth Club, smashed it fiercely at the Thunder Leopard."
+      ]
+     },
+     {
+      "name": "Wolf Teeth Club",
+      "score": 1.5,
+      "ch_range": "136-136 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "Facing the huge Wolf Teeth Club descending from the sky, the Rushing Thunder Leopard suddenly raised an electric current under its feet.",
+       "Immediately, it turned into a lightning bolt and fiercely rushed forward, avoiding the Wolf Teeth Club."
+      ]
+     },
+     {
+      "name": "Vital Essences Incarnation",
+      "score": 1.5,
+      "ch_range": "137-137 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Ten Directions Annihilation",
+      "score": 1.5,
+      "ch_range": "136-136 (1 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "In the past, when Ye Chou's opponents faced his \"Ten Directions Annihilation\", their eyes would reveal fear, despair, and helplessness \u2026"
+      ]
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "Xiantian (chs 9-1111 (273 eps), m53/f1)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "Divine Realm (chs 101-1306 (102 eps), m12/f2)",
+     "Divine Reflection Realm (chs 77-1092 (180 eps), m22/f0)",
+     "Divine Reflection (chs 79-953 (105 eps), m17/f5)",
+     "Eastern Region (chs 1-1265 (89 eps), m4/f0)",
+     "Fortunately (chs 19-1298 (126 eps), m20/f6)",
+     "Immortal Mansion (chs 134-1302 (55 eps), m7/f0)",
+     "Wanderer Wuyue (chs 138-375 (7 eps), m9/f0)",
+     "Jade Dragon Valley (chs 95-970 (8 eps), m1/f0)",
+     "Thunder Leopard (chs 136-141 (4 eps), m0/f0)",
+     "Unfortunately (chs 1-1302 (157 eps), m34/f3)",
+     "Illuminating Spirit Realm (chs 103-715 (18 eps), m1/f0)",
+     "Blue Cloud Sect (chs 1-1110 (304 eps), m34/f12)"
+    ]
+   }
+  ]
+ },
+ {
+  "family": [
+   "Serene Void"
+  ],
+  "total_midsent": 4,
+  "entities": [
+   {
+    "name": "Serene Void",
+    "midsent": 4,
+    "eps": "160-876 (4 eps)",
+    "gender_signal": "m0/f0",
+    "distinct_mentions": {
+     "Serene Void": 4
+    },
+    "contexts": [],
+    "masterls": [],
+    "source_candidates": [
+     {
+      "name": "Tree of Earth",
+      "score": 1.0,
+      "ch_range": "847-852 (2 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "I knew it was buried in the Tree of Earth.",
+       "Qinglong laughed, \"This is the Calamity Flower of the Tree of Earth.\"\n\"Calamity Flower?"
+      ]
+     },
+     {
+      "name": "This Black Star Pickaxe",
+      "score": 1.0,
+      "ch_range": "846-847 (2 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Mining Tree",
+      "score": 1.0,
+      "ch_range": "844-847 (2 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "High Grade Sacred Artifact",
+      "score": 1.0,
+      "ch_range": "848-920 (2 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": []
+     },
+     {
+      "name": "Heart Concentrating Necklace",
+      "score": 1.0,
+      "ch_range": "841-849 (2 eps)",
+      "gender_signal": "m0/f0",
+      "contexts": [
+       "Relying on this Heart Concentrating Necklace, Liu Xiu was bitterly holding on in front of Luo Zheng."
+      ]
+     }
+    ],
+    "source_entities_in_aligned_chapters": [
+     "Luo Zheng (chs 1-1310 (1305 eps), m4790/f511)",
+     "Huo Yuner (chs 791-1014 (67 eps), m23/f83)",
+     "Therefore (chs 1-1310 (680 eps), m155/f38)",
+     "Divine Sea Realm (chs 497-1308 (313 eps), m53/f5)",
+     "Divine Kingdom (chs 443-1291 (177 eps), m5/f3)",
+     "Luo Tianxing (chs 761-1278 (77 eps), m9/f0)",
+     "Black Star Pickaxe (chs 833-1285 (32 eps), m10/f0)",
+     "Afo (chs 143-1179 (44 eps), m21/f1)",
+     "Qinglong (chs 2-1306 (191 eps), m91/f9)",
+     "Zhou Huang (chs 777-980 (56 eps), m12/f1)",
+     "Tianfeng War Emperor (chs 784-980 (47 eps), m33/f5)",
+     "Golden Leaf (chs 833-850 (9 eps), m0/f0)",
+     "False Tribulation Realm (chs 428-967 (168 eps), m22/f0)",
+     "Xiantian (chs 9-1111 (273 eps), m53/f1)",
+     "Hehe (chs 10-1300 (170 eps), m13/f2)"
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,582 @@
+{
+ "luo tianxing": [
+  [
+   "Zane Jones",
+   "Zane Jones",
+   "high",
+   "results/batch_01.jsonl"
+  ],
+  [
+   "Luo Tianxing",
+   "Luo Tianxing",
+   "high",
+   "results/batch_48.jsonl"
+  ]
+ ],
+ "xi youqin": [
+  [
+   "Cora",
+   "Cora",
+   "high",
+   "results/batch_02.jsonl"
+  ],
+  [
+   "Lady Cora",
+   "Lady Cora",
+   "medium",
+   "results/batch_37.jsonl"
+  ]
+ ],
+ "qinglong": [
+  [
+   "Cobalt Dragon",
+   "Cobalt Dragon",
+   "high",
+   "results/batch_02.jsonl"
+  ],
+  [
+   "Josh",
+   "Josh",
+   "medium",
+   "results/batch_30.jsonl"
+  ]
+ ],
+ "zhang wuxian": [
+  [
+   "Dustin Blackwood",
+   "Dustin Blackwood",
+   "medium",
+   "results/batch_04.jsonl"
+  ],
+  [
+   "Max",
+   "Max",
+   "medium",
+   "results/batch_10.jsonl"
+  ],
+  [
+   "Rhys Bolton",
+   "Rhys Bolton",
+   "medium",
+   "results/batch_16.jsonl"
+  ]
+ ],
+ "meng chong": [
+  [
+   "Malcolm",
+   "Malcolm",
+   "high",
+   "results/batch_05.jsonl"
+  ],
+  [
+   "Maurice",
+   "Maurice",
+   "medium",
+   "results/batch_06.jsonl"
+  ]
+ ],
+ "little monster": [
+  [
+   "Little Monster",
+   "Little Monster",
+   "high",
+   "results/batch_06.jsonl"
+  ],
+  [
+   "Little Monster\u2019",
+   "Little Monster",
+   "high",
+   "results/batch_48.jsonl"
+  ]
+ ],
+ "luo junyi": [
+  [
+   "Owen Lowell",
+   "Owen Lowell",
+   "medium",
+   "results/batch_06.jsonl"
+  ],
+  [
+   "Ken Lowell",
+   "Ken Lowell",
+   "high",
+   "results/batch_17.jsonl"
+  ],
+  [
+   "Nolan",
+   "Nolan Lowell",
+   "low",
+   "results/batch_26.jsonl"
+  ],
+  [
+   "Chuck",
+   "Chuck",
+   "medium",
+   "results/batch_43.jsonl"
+  ]
+ ],
+ "sima yulong": [
+  [
+   "Fenton",
+   "Fenton",
+   "high",
+   "results/batch_06.jsonl"
+  ],
+  [
+   "Mervin Thorne",
+   "Mervin Thorne",
+   "medium",
+   "results/batch_29.jsonl"
+  ]
+ ],
+ "xia shuang": [
+  [
+   "Olivia",
+   "Olivia",
+   "medium",
+   "results/batch_08.jsonl"
+  ],
+  [
+   "Phoebe",
+   "Phoebe",
+   "medium",
+   "results/batch_15.jsonl"
+  ],
+  [
+   "Madeline",
+   "Madeline",
+   "medium",
+   "results/batch_33.jsonl"
+  ]
+ ],
+ "zhao fenqin": [
+  [
+   "Fabian",
+   "Fabian",
+   "medium",
+   "results/batch_08.jsonl"
+  ],
+  [
+   "Jarrod",
+   "Jarrod",
+   "high",
+   "results/batch_16.jsonl"
+  ]
+ ],
+ "zhou dan": [
+  [
+   "Richard",
+   "Richard",
+   "high",
+   "results/batch_08.jsonl"
+  ],
+  [
+   "Cecil Sterling",
+   "Cecil Sterling",
+   "high",
+   "results/batch_14.jsonl"
+  ]
+ ],
+ "luo chengyun": [
+  [
+   "Andrew Lowell",
+   "Andrew Lowell",
+   "high",
+   "results/batch_08.jsonl"
+  ],
+  [
+   "Master Andrew",
+   "Master Andrew",
+   "medium",
+   "results/batch_29.jsonl"
+  ]
+ ],
+ "mo xiuyan": [
+  [
+   "James Moon",
+   "James Moon",
+   "high",
+   "results/batch_09.jsonl"
+  ],
+  [
+   "Yates",
+   "Yates Moon",
+   "high",
+   "results/batch_10.jsonl"
+  ]
+ ],
+ "xie lang": [
+  [
+   "Jace",
+   "Jace",
+   "high",
+   "results/batch_09.jsonl"
+  ],
+  [
+   "Evil Jace",
+   "Evil Jace",
+   "high",
+   "results/batch_11.jsonl"
+  ]
+ ],
+ "jin hai": [
+  [
+   "Larkin",
+   "Larkin",
+   "medium",
+   "results/batch_09.jsonl"
+  ],
+  [
+   "Jeffrey",
+   "Jeffrey",
+   "high",
+   "results/batch_16.jsonl"
+  ],
+  [
+   "Coleman",
+   "Coleman",
+   "high",
+   "results/batch_18.jsonl"
+  ]
+ ],
+ "qiu ren": [
+  [
+   "Rylan",
+   "Rylan",
+   "medium",
+   "results/batch_10.jsonl"
+  ],
+  [
+   "Ernest",
+   "Ernest",
+   "high",
+   "results/batch_30.jsonl"
+  ]
+ ],
+ "su rui": [
+  [
+   "Ray",
+   "Ray",
+   "medium",
+   "results/batch_11.jsonl"
+  ],
+  [
+   "Prince Ray",
+   "Prince Ray",
+   "high",
+   "results/batch_34.jsonl"
+  ]
+ ],
+ "black iron demon king": [
+  [
+   "Aldrich",
+   "Aldrich",
+   "medium",
+   "results/batch_11.jsonl"
+  ],
+  [
+   "Netherlord Aldrich",
+   "Netherlord Aldrich",
+   "medium",
+   "results/batch_12.jsonl"
+  ],
+  [
+   "Orion",
+   "Orion",
+   "medium",
+   "results/batch_31.jsonl"
+  ]
+ ],
+ "zhuge feng": [
+  [
+   "Felix Sterling",
+   "Felix Sterling",
+   "medium",
+   "results/batch_11.jsonl"
+  ],
+  [
+   "Frey",
+   "Frey",
+   "high",
+   "results/batch_15.jsonl"
+  ],
+  [
+   "Bishop",
+   "Bishop Sterling",
+   "medium",
+   "results/batch_30.jsonl"
+  ]
+ ],
+ "tianqiong": [
+  [
+   "Saint Viana",
+   "Saint Viana",
+   "high",
+   "results/batch_13.jsonl"
+  ],
+  [
+   "Saint Augustus",
+   "Saint Augustus",
+   "high",
+   "results/batch_16.jsonl"
+  ]
+ ],
+ "zhu feihang": [
+  [
+   "Lennie",
+   "Lennie",
+   "high",
+   "results/batch_14.jsonl"
+  ],
+  [
+   "Payne",
+   "Payne",
+   "high",
+   "results/batch_26.jsonl"
+  ]
+ ],
+ "book immortal": [
+  [
+   "Eternal Scribe",
+   "Eternal Scribe",
+   "high",
+   "results/batch_16.jsonl"
+  ],
+  [
+   "Scribe",
+   "The Scribe",
+   "high",
+   "results/batch_26.jsonl"
+  ]
+ ],
+ "xie mang": [
+  [
+   "Ryder",
+   "Ryder",
+   "high",
+   "results/batch_17.jsonl"
+  ],
+  [
+   "Jared",
+   "Jared",
+   "low",
+   "results/batch_46.jsonl"
+  ]
+ ],
+ "lin geng": [
+  [
+   "Dalton",
+   "Dalton",
+   "low",
+   "results/batch_17.jsonl"
+  ],
+  [
+   "Cliff",
+   "Cliff",
+   "high",
+   "results/batch_20.jsonl"
+  ]
+ ],
+ "che daozi": [
+  [
+   "Chase",
+   "Chase",
+   "high",
+   "results/batch_18.jsonl"
+  ],
+  [
+   "Barrett",
+   "Barrett",
+   "high",
+   "results/batch_28.jsonl"
+  ]
+ ],
+ "qing xu": [
+  [
+   "Elder Xander",
+   "Elder Xander",
+   "high",
+   "results/batch_20.jsonl"
+  ],
+  [
+   "Xander",
+   "Xander",
+   "medium",
+   "results/batch_26.jsonl"
+  ]
+ ],
+ "xie yun": [
+  [
+   "Wynn",
+   "Wynn",
+   "high",
+   "results/batch_20.jsonl"
+  ],
+  [
+   "Shayna",
+   "Shayna",
+   "medium",
+   "results/batch_36.jsonl"
+  ]
+ ],
+ "zhan yun": [
+  [
+   "Edwin",
+   "Edwin",
+   "high",
+   "results/batch_21.jsonl"
+  ],
+  [
+   "Gregory",
+   "Gregory",
+   "high",
+   "results/batch_26.jsonl"
+  ],
+  [
+   "Titus",
+   "Titus",
+   "medium",
+   "results/batch_31.jsonl"
+  ]
+ ],
+ "lan bing": [
+  [
+   "Lacey",
+   "Lacey",
+   "high",
+   "results/batch_21.jsonl"
+  ],
+  [
+   "Chantel",
+   "Chantel",
+   "high",
+   "results/batch_35.jsonl"
+  ]
+ ],
+ "sect master xiao": [
+  [
+   "Shaw",
+   "Elder Shaw",
+   "high",
+   "results/batch_22.jsonl"
+  ],
+  [
+   "Elder Shaw",
+   "Elder Shaw",
+   "medium",
+   "results/batch_37.jsonl"
+  ]
+ ],
+ "cao": [
+  [
+   "Carter",
+   "Carter",
+   "high",
+   "results/batch_24.jsonl"
+  ],
+  [
+   "Steward Carter",
+   "Steward Carter",
+   "high",
+   "results/batch_28.jsonl"
+  ]
+ ],
+ "hou da": [
+  [
+   "Abner",
+   "Abner",
+   "high",
+   "results/batch_26.jsonl"
+  ],
+  [
+   "Cody",
+   "Cody",
+   "medium",
+   "results/batch_32.jsonl"
+  ]
+ ],
+ "zhao zheng": [
+  [
+   "Julian",
+   "Elder Julian",
+   "medium",
+   "results/batch_27.jsonl"
+  ],
+  [
+   "Elder Julian",
+   "Elder Julian",
+   "medium",
+   "results/batch_32.jsonl"
+  ]
+ ],
+ "mie": [
+  [
+   "Cassian",
+   "Cassian",
+   "medium",
+   "results/batch_29.jsonl"
+  ],
+  [
+   "Exterminator",
+   "Exterminator",
+   "high",
+   "results/batch_45.jsonl"
+  ]
+ ],
+ "jing": [
+  [
+   "Elder Kingsley",
+   "Elder Kingsley",
+   "medium",
+   "results/batch_29.jsonl"
+  ],
+  [
+   "Kingsley",
+   "Kingsley",
+   "medium",
+   "results/batch_33.jsonl"
+  ]
+ ],
+ "uncle ya": [
+  [
+   "Uncle Kyle",
+   "Uncle Kyle",
+   "high",
+   "results/batch_31.jsonl"
+  ],
+  [
+   "Kyle",
+   "Uncle Kyle",
+   "medium",
+   "results/batch_43.jsonl"
+  ]
+ ],
+ "hu": [
+  [
+   "Elder Holt",
+   "Elder Holt",
+   "medium",
+   "results/batch_35.jsonl"
+  ],
+  [
+   "Holt",
+   "Elder Holt",
+   "medium",
+   "results/batch_47.jsonl"
+  ]
+ ],
+ "empyrean original sin": [
+  [
+   "Lumen",
+   "Lumen",
+   "low",
+   "results/batch_40.jsonl"
+  ],
+  [
+   "Malachi",
+   "Malachi",
+   "high",
+   "results/batch_45.jsonl"
+  ]
+ ]
+}

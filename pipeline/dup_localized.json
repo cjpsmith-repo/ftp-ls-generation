@@ -1,0 +1,110 @@
+{
+ "('Entity', 'bloody mountain')": [
+  "Skyreach Sect's Bloody Mountain",
+  "Bloody Mountain"
+ ],
+ "('Entity', 'house lowell')": [
+  "House Lowell",
+  "Lowell House"
+ ],
+ "('Entity', 'war general')": [
+  "War General",
+  "War General-level"
+ ],
+ "('Character', 'little monster')": [
+  "Little Monster",
+  "Little Monster\u2019"
+ ],
+ "('Entity', 'marrow refining level')": [
+  "Marrow Refining Level",
+  "Marrow Refining"
+ ],
+ "('Entity', 'time law')": [
+  "Time Law",
+  "Fiona\u2019s Time Law"
+ ],
+ "('Entity', 'corrupt vitality')": [
+  "Corrupt Vitality",
+  "Zane\u2019s Corrupt Vitality"
+ ],
+ "('Entity', 'dragon-blooded')": [
+  "Dragon-blooded",
+  "Dragon-Blooded"
+ ],
+ "('Entity', 'house sterling')": [
+  "House Sterling",
+  "Sterling"
+ ],
+ "('Entity', 'house blackwood')": [
+  "Blackwood House",
+  "House Blackwood"
+ ],
+ "('Character', 'master warren')": [
+  "Master Warren",
+  "Warren"
+ ],
+ "('Entity', \"dragon's keep\")": [
+  "Dragon's Keep",
+  "Dragon\u2019s Keep"
+ ],
+ "('Character', 'saint augustus')": [
+  "Saint Augustus",
+  "Augustus"
+ ],
+ "('Entity', \"world's will\")": [
+  "World\u2019s Will",
+  "World's Will"
+ ],
+ "('Character', 'elder howard')": [
+  "Elder Howard",
+  "Howard"
+ ],
+ "('Entity', 'house kendrick')": [
+  "House Kendrick",
+  "Kendrick"
+ ],
+ "('Character', 'elder shaw')": [
+  "Shaw",
+  "Elder Shaw"
+ ],
+ "('Entity', 'armored wyvern')": [
+  "Armored Wyvern",
+  "Wyvern"
+ ],
+ "('Character', 'gilded warden')": [
+  "Warden",
+  "Gilded Warden"
+ ],
+ "('Entity', 'student id')": [
+  "Student ID",
+  "Zane's Student ID"
+ ],
+ "('Character', 'elder julian')": [
+  "Julian",
+  "Elder Julian"
+ ],
+ "('Character', 'elder roland')": [
+  "Elder Roland",
+  "Roland"
+ ],
+ "('Character', 'uncle kyle')": [
+  "Uncle Kyle",
+  "Kyle"
+ ],
+ "('Entity', \"true dragon's heartblood\")": [
+  "Dragon's Heartblood",
+  "Dragon\u2019s Heartblood"
+ ],
+ "('Character', 'elder holt')": [
+  "Elder Holt",
+  "Holt"
+ ],
+ "('Entity', 'heavenly thunder halberd')": [
+  "Heavenly Thunder Halberd",
+  "Fredrick\u2019s Heavenly Thunder Halberd"
+ ],
+ "('Entity', \"feather emperor's secret land\")": [
+  "Feather Emperor's Secret Land",
+  "Feather Emperor\u2019s Secret Land"
+ ]
+}

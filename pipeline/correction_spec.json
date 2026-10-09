@@ -658,17 +658,6 @@
    "source": "zhan yun"
   },
   {
-   "id": "M3",
-   "keep": "Lacey",
-   "absorb": "Chantel",
-   "eps": [
-    943,
-    949
-   ],
-   "source": "lan bing",
-   "note": "same battle; reweave"
-  },
-  {
    "id": "M4",
    "keep": "Wynn",
    "absorb": "Shayna",
@@ -795,6 +784,7 @@
   "X3": "Nature Level is show canon, bridged in-world by Ep 185 ('Adept Realm was what warriors called those who had broken through the Nature Level'); only Innate Realm leaks fixed (T41)",
   "X8": "unified globally to Secret Land (T42)",
   "X9": "M6 resolved: keep Felix, absorb Frey (S5)",
-  "M6": "resolved via S5"
+  "M6": "resolved via S5",
+  "M3": "REVERTED - Chantel = tian xuan (distinct source character, Female); Lacey = lan bing. Not a split."
  }
 }

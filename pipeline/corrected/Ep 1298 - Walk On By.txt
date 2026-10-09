@@ -10,8 +10,8 @@ A crack of lightning, sudden as a summer storm, tore through the space, and the 
 [SFX: STONES SLOTTING INTO PLACE]
 Shards of stone erupted from the pillars, the pieces seeming to know exactly where they belonged as they flew into place, slotting together with impossible precision.
 [SFX: MASSIVE STRUCTURE MATERIALIZING]
-A roof, beams, eaves, walls, doors, and floors all materialized out of the chaos, as if an invisible force were building a grand hall right before their eyes. In a matter of moments, a magnificent, circular chamber stood before them, with six distinct corridors branching out from it.
-“Six paths?”
+A roof, beams, eaves, walls, doors, and floors all materialized out of the chaos, as if an invisible force were building a grand hall right before their eyes. In a matter of moments, a magnificent, circular chamber stood before them, with five distinct corridors branching out from it.
+“Five paths?”
 “So, what, we’re supposed to split up?”
 “I thought this was about teamwork.”
 No one knew what to make of the new layout, and they all exchanged confused looks. But they understood the implication. If they wanted to get through this place, they had to play by its rules. If the hall wanted to separate them, they had no choice but to go along with it.
@@ -19,7 +19,7 @@ No one knew what to make of the new layout, and they all exchanged confused look
 A low hum filled the air as the doorways to each corridor began to glow with a shiny blue light.
 [SFX: MAGICAL ENERGY SWIRLING]
 The light swirled and coalesced, forming legible words over each archway. Each door now bore the name of one of the warriors.
-Janet, Jeffrey, Hailey, Coleman, Ansel, and Zane Lowell.
+Janet, Hailey, Coleman, Ansel, and Zane Lowell.
 “Zane Lowell?!”
 Every head whipped around to stare at Zane.
 Only now did it click for Janet — Zane had never once given them his last name. She’d noticed it back when they first met and brushed it off as nothing. Now she understood exactly why he’d left it out.
@@ -30,16 +30,16 @@ To the younger generation, Zane was a living legend. It wasn’t even about his 
 [AMBIENT: COSMIC BROADCAST HUM]
 After all, for the last six years, someone had been using a Roaring Token to broadcast his story across the universe. You couldn’t avoid it, whether you wanted to listen or not. But the stories were so gripping that everyone got hooked, waiting months on end for the next installment after the storyteller always left them hanging with the same line: “And as for what happened next… you’ll have to find out next time.”
 After he took down the four Supreme Lords, this was how Zane had spent his time. Trillions of lives across the universe had been captivated by the tales of his adventures.
-Janet, Jeffrey, Hailey, and the others were no exception.
+Janet, Coleman, Hailey, and the rest were no exception.
 “Are… are you really Zane Lowell?”
 “Yes,” Zane said. “I’m Zane Lowell.”
-Jeffrey let out a bark of laughter and clapped Zane on the shoulder. “Hah! You’ve been killing me for years, you know that?”
+Coleman let out a bark of laughter and clapped Zane on the shoulder. “Hah! You’ve been killing me for years, you know that?”
 “How exactly did I kill you?” Zane asked, genuinely confused.
-Jeffrey explained — he’d spent long stretches in seclusion, trying to master a meditation technique that demanded total stillness of the six senses. No distractions allowed. Unfortunately, Zane’s broadcasts didn’t care about that. Every time the story picked back up in his ears, his focus shattered along with it. It was a miracle he hadn’t gone half-mad from it — though his progress had definitely suffered for it.
-“Same here,” Coleman chimed in, nodding along. “I’ve lost count of how many times that voice pulled me right out of my cultivation.”
+Coleman explained — he’d spent long stretches in seclusion, trying to master a meditation technique that demanded total stillness of the six senses. No distractions allowed. Unfortunately, Zane’s broadcasts didn’t care about that. Every time the story picked back up in his ears, his focus shattered along with it. It was a miracle he hadn’t gone half-mad from it — though his progress had definitely suffered for it.
+“Same here,” Ansel chimed in, nodding along. “I’ve lost count of how many times that voice pulled me right out of my cultivation.”
 Hailey only smiled and said nothing.
 Questions came pouring in after that — about the Roaring Token, about the immortal mansion, about anything and everything. Zane answered what he could and glossed over what he couldn’t, patient but unhurried.
-Finally, he raised a hand toward the six corridors behind him. “I think we should get back to the matter at hand.”
+Finally, he raised a hand toward the five corridors behind him. “I think we should get back to the matter at hand.”
 Janet stuck her tongue out, sheepish. “Fine, fine — I’m a little too curious for my own good. I knew you’d made it into the Illusion Battlefield too, but I never expected to actually run into you here.”
 “Right now, the Hall matters more than I do,” Zane said. “Let’s see if these corridors really are locked to us the way they look. I’ll try mine first.”
 Zane took a step to his left, stopping in front of the next corridor over. Janet’s name was written above it, marking it as her path.
@@ -49,7 +49,7 @@ Zane didn’t fight it. He understood. This was the hall’s game, and if it wou
 [MUSIC: SOLEMN DEPARTURE]
 [AMBIENT: MULTIPLE CORRIDOR ECHOES]
 The reality of the situation settled over the group: they would have to finish the rest of this journey on their own. After a moment of silent preparation, they each turned to their designated corridors.
-Coleman looked the most dejected of them all. He knew he hadn’t really pulled his weight on the journey so far. He’d just been a tagalong, relying on everyone else to get by. From here on out, he was on his own, and he wasn’t sure he could handle it.
+Ansel looked the most dejected of them all. He knew he hadn’t really pulled his weight on the journey so far. He’d just been a tagalong, relying on everyone else to get by. From here on out, he was on his own, and he wasn’t sure he could handle it.
 The anxiety was written plainly on his face as he stepped into his corridor with a long, drawn-out sigh.
 [AMBIENT: VAST EMPTY CORRIDOR]
 Zane gave the long, dark corridor ahead a final glance before stepping inside.

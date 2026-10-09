@@ -7,3 +7,8 @@
 - Set Cora's display name to "Cora Kensington" (= xi youqin), per Eps 727/966.
 - Duplicate source claims also: hou da (Abner / Cody), yang tai (Rex), zhan yun (Edwin / Gregory / Titus), lan bing (Lacey / Chantel), qiu ren (Ernest / Rylan), zhang wuxian (Dustin / Rhys Bolton / Max / Seth-related), jin hai (Larkin / Jeffrey / Coleman), zhuge feng (Felix Sterling / Frey / Bishop Sterling), luo junyi (Owen Lowell / Ken Lowell / Nolan Lowell-tentative), xia shuang (Olivia / Phoebe), zhou dan (Richard / Cecil Sterling), meng changjun (Leo Brandt / Leo), mo xiuyan (James Moon / Yates Moon), li qiong check, he bing (Julian Croft) vs batch09 Tristan Hayes=Xu Lie fine.
 - Zane pseudonym drift: "Luo Tianxing" un-localized in Eps 786/791, later "Zane Jones" — ensure Zane Jones row carries this issue; both are mentions of the same pseudonym identity.
+STEP5 fixups:
+- Ep 1251: pre-existing Rowan gender slip ("Rowan's heart leap into his throat; he almost started after him") — Rowan is female elsewhere; fix to her/she.
+- Report flag: Aurora/Aizen source gender is MTL-ambiguous (Lord Aizen + himself vs 'tall slender woman'); chose Male per title evidence. Same class as Eden/Cui Yun.
+- Ep 891 "Nightjade Fighting Soul stage" — lowercase 'stage'; optionally normalize at step 5 (agent B declined).
+- Ep 270 "Wynn had already fallen, taken down by a personal disciple" contradicts Ep 280-281 winning-streak fight; check source ch ~250-257 for which disciple actually fell (agent suspects a misattribution); fix Ep 270 (and verify Ep 305 "in a single second" line vs the three-move fight).

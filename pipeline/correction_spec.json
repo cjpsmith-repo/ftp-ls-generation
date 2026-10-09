@@ -237,6 +237,46 @@
    "find": "Seven Ruling Houses",
    "replace": "Seven Great Houses",
    "scope": "all"
+  },
+  {
+   "id": "T39",
+   "find": "War Emperor",
+   "replace": "War King",
+   "scope": "all",
+   "why": "source has ONE rank (Battle Emperor); show split into two names; unified to dominant 'War King'"
+  },
+  {
+   "id": "T40",
+   "find": "Life Force",
+   "replace": "Vitality",
+   "scope": "all",
+   "why": "early-era name for zhen yuan; later canon is Vitality"
+  },
+  {
+   "id": "T41",
+   "find": "Innate Realm",
+   "replace": "Adept Realm",
+   "scope": "all"
+  },
+  {
+   "id": "T42",
+   "find": "Secret Realm",
+   "replace": "Secret Land",
+   "scope": "all",
+   "why": "covers curly-apostrophe named realms T9 missed + bare uses"
+  },
+  {
+   "id": "T43",
+   "find": "an High-tier",
+   "replace": "a High-tier",
+   "scope": "all",
+   "why": "find-replace grammar artifact"
+  },
+  {
+   "id": "T44",
+   "find": "Marrow Refining Stage",
+   "replace": "Marrow Refining Level",
+   "scope": "all"
   }
  ],
  "range_renames": [
@@ -583,6 +623,16 @@
     885,
     1321
    ]
+  },
+  {
+   "id": "S5",
+   "find": "Frey",
+   "replace": "Felix",
+   "eps": [
+    160,
+    260
+   ],
+   "why": "same source character Zhuge Feng; show kept Felix alive through Ep 126 reference; ambush arc is his"
   }
  ],
  "merges": [
@@ -738,5 +788,13 @@
    "id": "X10",
    "rule": "Demon General/Demon Commander (early war arc) vs Ogre hierarchy: verify which source race each maps to; unify only if same"
   }
- ]
+ ],
+ "resolved": {
+  "X1": "unified to War King (T39)",
+  "X2": "Life Force->Vitality (T40); Life-Essence is a DISTINCT life-burning mechanic, kept",
+  "X3": "Nature Level is show canon, bridged in-world by Ep 185 ('Adept Realm was what warriors called those who had broken through the Nature Level'); only Innate Realm leaks fixed (T41)",
+  "X8": "unified globally to Secret Land (T42)",
+  "X9": "M6 resolved: keep Felix, absorb Frey (S5)",
+  "M6": "resolved via S5"
+ }
 }

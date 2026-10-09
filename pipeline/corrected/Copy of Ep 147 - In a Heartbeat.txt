@@ -4,8 +4,8 @@ Word Count: 1144
 [AMBIENT: RURAL ROAD]
 [MUSIC: ADVENTURE THEME]
  Zane did exactly as the big man had told him: twenty miles down the main road, straight out of the north gate of Greene County.
- At his pace, he covered the distance in no time. Just ahead, he spotted a path winding up a small mountain. This had to be Misty Peaks.
-The big man was right—Misty Peaks was small and unassuming. It was just one of a dozen identical peaks, the kind most people in Greene County wouldn't even know by name. When Zane reached the summit, he saw a redwood forest stretching across one side of the mountain.
+ At his pace, he covered the distance in no time. Just ahead, he spotted a path winding up a small mountain. This had to be the Cloudy Mountains.
+The big man was right—the Cloudy Mountains were small and unassuming. They were just a dozen identical peaks, the kind most people in Greene County wouldn't even know by name. When Zane reached the summit, he saw a redwood forest stretching across one side of the mountain.
 [AMBIENT: FOREST]
 [SFX: FOOTSTEPS]
 [SFX: TRICKLING WATER]
